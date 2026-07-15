@@ -1,0 +1,90 @@
+/*-- scss:defaults --*/
+
+// ===== Colour palette =====
+
+// 1. Neutrals (Your originals + subtle steps)
+$frc-dark-neutral: #1E1E17;
+$frc-dark:         #2D2D23; 
+$frc-light:        #D4C7B4;
+$frc-light-bg:     #EAE3D8; 
+
+// 2. Greens 
+$frc-green:        #7C7458; 
+$frc-green-dark:   #544F3C; 
+$frc-green-bright: #9E9473; 
+$frc-forest:       #4A5D4E; 
+
+// 3. Accents
+$frc-accent:       #B48954; 
+$frc-accent-light: #D4B083; 
+$frc-blue-sky:     #7A8F99; 
+$frc-rust:         #9E4B33; 
+
+
+// ==== Bootstrap variables ====
+
+// Body & text
+$body-bg: $frc-dark; // background colour
+$body-color: $frc-light-bg; // text colour
+
+// Accents & links 
+$primary: $frc-green-bright;
+$secondary: $frc-accent;
+$link-color: $frc-accent-light;
+
+// Navbar
+$navbar-bg: $frc-green;
+$navbar-fg: $frc-light-bg;
+$navbar-hl: $frc-dark;
+
+// code block Defaults
+$code-bg: $frc-light;
+$code-color: $frc-dark;
+
+/*-- scss:rules --*/
+
+// Code blocks 
+
+/// Code block background  
+div.code-copy-outer-scaffold pre.code-with-copy,
+div.code-copy-outer-scaffold .sourceCode {
+  background-color: $frc-forest;
+}
+
+/// Code appearance
+
+div.code-copy-outer-scaffold code.sourceCode {
+  color: $frc-light-bg; // normal code text
+
+  // digits and operators
+  span.dv { 
+    color: $frc-light-bg; // digits
+  }
+  span.sc { 
+    color: $frc-light-bg; // special operators (e.g. +)
+  }
+}
+
+/// Copy button
+.code-copy-button {
+  color: $frc-dark-neutral;
+  
+  &:hover {
+    color: $frc-blue-sky;
+  }
+}
+
+// Code Output 
+
+/// Box appearance
+pre {
+  background-color: $frc-light;
+  border: 1px solid $frc-green-bright;
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+// Text appearance
+pre code {
+  color: $frc-dark-neutral;
+}

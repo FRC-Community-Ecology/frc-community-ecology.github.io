@@ -3,19 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "FieldResearchCentreUHasselt.github.io"
+  title: "Field Research Centre Hasselt University"
+  description: This is the website of the Field Research Centre of Hasselt University Centre for Environmental Sciences.
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - research.qmd
+      - people.qmd
 
 format:
   html:
     theme:
       - cosmo
-      - brand
-    css: styles.css
+      - custom.scss
     toc: true
 
 

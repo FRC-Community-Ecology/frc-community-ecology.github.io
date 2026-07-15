@@ -1,5 +1,5 @@
 ---
-title: "Field Research Centre Hasselt University"
+# title: "Home"
 ---
 
 This is a Quarto website.
