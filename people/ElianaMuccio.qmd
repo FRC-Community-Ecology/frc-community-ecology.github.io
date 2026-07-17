@@ -1,5 +1,5 @@
 ---
-title: "Siebe Indestege" 
+title: "Eliana Muccio" 
 subtitle: "PhD researcher"
 page-layout: full
 toc: false
@@ -9,12 +9,9 @@ about:
   image-width: 12em
   image-shape: round
   links:
-    - icon: envelope
-      text: Email
-      href: mailto:siebe.indestege@uhasselt.be
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/siebe-indestege-a057a02b3/
+      href: https://www.linkedin.com/in/eliana-muccio/
 ---
 
 ## About Me
@@ -62,4 +59,4 @@ about:
 :::
 
 * **Hasselt University**: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts
-* **INBO** (Research Institute for Nature and Forest): partner institution, co-supervisor: Dr. ir. Jim Casaer
+* **INBO** (Research Institute for Nature and Forest): partner institution, co-supervisor: Dr. Anneleen Rutten

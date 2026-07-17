@@ -1,0 +1,54 @@
+---
+title: "Natalie Beenaerts" 
+subtitle: "Professor - head of the Field Research Centre"
+page-layout: full
+toc: false
+image: images/placeholder.jpg # Use same image as the card on people.qmd
+about:
+  template: trestles 
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:natalie.beenaerts@uhasselt.be
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/natalie-beenaerts-b6499936/
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-5655-5943
+    - text: "{{< fa brands researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Natalie-Beenaerts
+---
+
+## About Me
+
+
+
+---
+
+## Research Interests
+
+* 
+
+---
+
+## Publications
+
+* 
+
+## Other Outreach 
+
+### Articles 
+
+* 
+
+### Conference presentations
+
+* 
+
+### Info days 
+* 
+---
+
+

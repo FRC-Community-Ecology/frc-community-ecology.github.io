@@ -1,10 +1,11 @@
 ---
 title: "Imke Tomsin" 
-subtitle: "PhD student - FWO fundamental research fellow"
+subtitle: "PhD researcher - FWO fundamental research fellow"
 page-layout: full
-image: images/Imke.jpg # Use same image as the card on people.qmd
+toc: false
+image: images/Imke.jpg 
 about:
-  template: trestles # Places photo/links in a neat left sidebar
+  template: trestles 
   image-width: 12em
   image-shape: round
   links:
@@ -29,31 +30,33 @@ My research focuses on the development and application of mechanistic models to 
 
 ## Research Interests
 
-* **Individual-/agent-based models**
-* **(Generalised) Management Strategy Evaluation**
-* **Ungulate species and their predators** 
-* **Good Modelling Practices**
-* **Human-wildlife conflict**
+* **Individual-/agent-based modelling**
+* **(Generalised) Management Strategy Evaluation ((G)MSE)**
+* **Human-wildlife interactions & social-ecological systems**
+* **Wildlife management & conservation**
+* **Good Modelling Practices & open science**
+* **Mammals**
 
 ---
 
 ## Publications
 
-### 2025
-
-* Tomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating Management Scenarios for the European Hamster (Cricetus cricetus) Using Quantitative Models. Ecology and Evolution, 15(10), e72353. https://doi.org/10.1002/ece3.72353
+* Tomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating Management Scenarios for the European Hamster (Cricetus cricetus) Using Quantitative Models. Ecology and Evolution, 15(10), e72353. <https://doi.org/10.1002/ece3.72353>
 
 ## Other Outreach 
 
 ### Articles 
 
-* Natuurfocus 
+* Tomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Natalie, B. (2025). Virtuele hamsters: Wat simulaties ons vertellen over de toekomst van de Europese hamster in Vlaanderen. NatuurFocus, 24(3), 112-120.
 
-### Presentations
+### Conference presentations
 
-* Benelux zoology conference
-* International Wildlife Conference 2025
+* International Wildlife Congress 2025
+* Benelux Congress of Zoology 2024
 
+### Infodays 
+* Wetenschap in en rond het Nationaal Park Hoge Kempen 2025
+* INBO PhD-dag 2025
 ---
 
 ## Collaborators & Partners
@@ -65,7 +68,7 @@ My research focuses on the development and application of mechanistic models to 
 :::
 
 ::: {.g-col-6 .g-col-md-3 .text-center}
-[![](images/logos/CMK.png){.collaborator-logo alt="Hasselt University"}](https://www.uhasselt.be)
+[![](images/logos/CMK.png){.collaborator-logo alt="CMK"}](https://www.uhasselt.be)
 :::
 
 ::: {.g-col-6 .g-col-md-3 .text-center}
@@ -73,7 +76,7 @@ My research focuses on the development and application of mechanistic models to 
 :::
 
 ::: {.g-col-6 .g-col-md-3 .text-center}
-[![](images/logos/Stirling.jpg){.collaborator-logo alt="University of Stirling"}]
+[![](images/logos/Stirling.jpg){.collaborator-logo alt="University of Stirling"}](https://www.stir.ac.uk/)
 :::
 
 ::: {.g-col-6 .g-col-md-3 .text-center}
@@ -82,9 +85,8 @@ My research focuses on the development and application of mechanistic models to 
 
 :::
 
-* Hasselt university: main institute - Centre for Environmental Science
-* FWO: funder - PhD fellowship fundamental research 
-* INBO: co-supervisor Dr. ir. Jim Casaer
-* University of Stirling: co-supervisors Prof. Dr. Nils Bunnefeld, Dr. Brad Duthie
-* University of Antwerp: co-supervisor Prof. Dr. Herwig Leirs
-* 
+* **Hasselt University**: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts
+* **INBO** (Research Institute for Nature and Forest): co-host institution, co-supervisor: Dr. ir. Jim Casaer
+* **FWO**: Funding Source - PhD Fellowship Fundamental Research 
+* **University of Stirling**: partner institution, co-supervisors: Prof. Dr. Nils Bunnefeld & Dr. Brad Duthie
+* **University of Antwerp**: partner institution, co-supervisor: Prof. Dr. Herwig Leirs

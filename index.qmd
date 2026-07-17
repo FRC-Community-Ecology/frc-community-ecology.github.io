@@ -1,13 +1,38 @@
 ---
-title: "Home"
 page-layout: full
+toc: false # Hide sidebar on the right
 ---
 
-Welcome to our website. 
+# Field Research Centre
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The **Field Research Centre (FRC)** is the ecological field station of Hasselt University, located at the gateway to **Nationaal Park Hoge Kempen**. We conduct international research on the impacts of human activities on ecology and biodiversity.
 
-```{r}
-1 + 1
-```
+[Explore Our Research](research.qmd){.btn .btn-primary .btn-lg role="button"} [Meet the Team](people.qmd){.btn .btn-primary .btn-lg role="button"}
+
+
+## Core Research Focus
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### 🔍 Long-Term Monitoring
+Part of the European **eLTER network**, collecting data across Nationaal Park Hoge Kempen using camera traps and biologgers.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### 🚶 Human-Nature Interactions
+Investigating how human density, recreation, and habitat fragmentation impact wildlife dynamics and biodiversity in complex, multi-use landscapes.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### 🐗 Mechanistic Modelling
+Developing predictive models to evaluate management strategies and support evidence-based wildlife management and conservation.
+:::
+
+:::
+
+<br>
+
+![](images/CT_Boars.jpg){.img-fluid .w-100 .shadow-sm alt="Camera trap photo"}
+
 

@@ -7,7 +7,6 @@ website:
   description: This is the website of the Field Research Centre of Hasselt University Centre for Environmental Sciences.
   navbar:
     left:
-      - href: index.qmd
       - research.qmd
       - people.qmd
   page-footer:

@@ -1,4 +1,11 @@
 ---
 title: "Research"
+toc: false
 ---
+## Projects
 
+
+## Facilities
+
+### Infrastructure & Education
+FRC provides **laboratories and teaching facilities** for field excursions, practicals, and student thesis projects (BSc & MSc).

@@ -1,14 +1,65 @@
 ---
 title: "Wim Kuypers" 
-subtitle: "PhD student"
+subtitle: "PhD researcher"
 page-layout: full
-image: images/test.jpg # Use same image as the card on people.qmd
+toc: false
+image: images/placeholder.jpg # Use same image as the card on people.qmd
 about:
-  template: trestles # Places photo/links in a left sidebar
+  template: trestles 
   image-width: 12em
   image-shape: round
   links:
     - icon: envelope
       text: Email
       href: mailto:wim.kuypers@uhasselt.be
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/wim-kuypers-008279264/
 ---
+
+## About Me
+
+
+
+---
+
+## Research Interests
+
+* 
+
+---
+
+## Publications
+
+* 
+
+## Other Outreach 
+
+### Articles 
+
+* 
+
+### Conference presentations
+
+* 
+
+### Info days 
+* 
+---
+
+## Collaborators & Partners
+
+::: {.grid .align-items-center .g-4 .my-3}
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/CMK.png){.collaborator-logo alt="CMK"}](https://www.uhasselt.be)
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/INBO.png){.collaborator-logo alt="INBO"}](https://www.vlaanderen.be/inbo)
+:::
+
+:::
+
+* **Hasselt University**: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts
+* **INBO** (Research Institute for Nature and Forest): partner institution, co-supervisor: Dr. ir. Jim Casaer

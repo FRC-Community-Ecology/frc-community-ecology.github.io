@@ -1,6 +1,7 @@
 ---
 title: "Our Team"
 page-layout: full
+toc: false # No table of contents
 ---
 
 ## Principal Investigator
@@ -10,7 +11,7 @@ page-layout: full
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="images/test.jpg" alt="Natalie Beenaerts" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="images/placeholder.jpg" alt="Natalie Beenaerts" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Prof. Dr. Natalie Beenaerts {.h4 .mt-0}
 **Professor - head of the Field Research Centre**  
@@ -30,7 +31,7 @@ page-layout: full
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="images/test.jpg" alt="Imke Tomsin" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="images/placeholder.jpg" alt="Imke Tomsin" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Imke Tomsin {.h4 .mt-0}
 **PhD researcher**  
@@ -45,7 +46,7 @@ page-layout: full
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="images/test.jpg" alt="Wim Kuypers" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="images/placeholder.jpg" alt="Wim Kuypers" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Wim Kuypers {.h4 .mt-0}
 **PhD researcher**  
@@ -60,7 +61,7 @@ page-layout: full
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="images/test.jpg" alt="Siebe Indestege" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="images/placeholder.jpg" alt="Siebe Indestege" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Siebe Indestege {.h4 .mt-0}
 **PhD researcher**  
@@ -74,20 +75,39 @@ page-layout: full
 
 :::
 
-## Co-supervised PhD students 
+## Co-supervised PhD researchers 
 
-### Eliana Muccio
+::: {.grid} 
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="images/placeholder.jpg" alt="Eliana Muccio" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Eliana Muccio {.h4 .mt-0}
+**PhD researcher**  
+
+[Research focus: human-wolf interactions in Belgium]{.small .text-muted}
+
+<a href="people/ElianaMuccio.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
+:::
+:::
+:::
+
+:::
 
 ## Past collaborations 
 
-### PhD's 
-* **Dr. Jolien Wevers** (....-....)
-* **Dr. Martijn Bollen** (....-....)
+### PhDs
+* **Dr. Jolien Wevers**
+* **Dr. Martijn Bollen**
 
 ### Master students 
-* Annelien Vantomme (2025-2026)
+#### 2025-2026
+* Annelien Vantomme
 
 ### Bachelor students
-* Lisa Bongaers (2025-2026)
-* Robbe Van Assche (2025-2026)
-* Giel Maesen (2025-2026)
+#### 2025-2026
+* Lisa Bongaers
+* Robbe Van Assche
+* Giel Maesen

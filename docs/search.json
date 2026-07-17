@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Field Research Centre",
     "section": "",
-    "text": "Welcome to our website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "The Field Research Centre (FRC) is the ecological field station of Hasselt University, located at the gateway to Nationaal Park Hoge Kempen. We conduct international research on the impacts of human activities on ecology and biodiversity.\nExplore Our Research Meet the Team\n\n\n\n\n\nPart of the European eLTER network, collecting data across Nationaal Park Hoge Kempen using camera traps and biologgers.\n\n\n\nInvestigating how human density, recreation, and habitat fragmentation impact wildlife dynamics and biodiversity in complex, multi-use landscapes.\n\n\n\nDeveloping predictive models to evaluate management strategies and support evidence-based wildlife management and conservation."
   },
   {
     "objectID": "about.html",
@@ -53,14 +53,14 @@
     "href": "people/ImkeTomsin.html#research-interests",
     "title": "Imke Tomsin",
     "section": "Research Interests",
-    "text": "Research Interests\n\nIndividual-/agent-based models\n(Generalised) Management Strategy Evaluation\nUngulate species and their predators\nGood Modelling Practices\nHuman-wildlife conflict"
+    "text": "Research Interests\n\nIndividual-/agent-based modelling\n(Generalised) Management Strategy Evaluation ((G)MSE)\nHuman-wildlife interactions & social-ecological systems\nWildlife management & conservation\nGood Modelling Practices & open science\nMammals"
   },
   {
     "objectID": "people/ImkeTomsin.html#publications",
     "href": "people/ImkeTomsin.html#publications",
     "title": "Imke Tomsin",
     "section": "Publications",
-    "text": "Publications\n\n2025\n\nTomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating Management Scenarios for the European Hamster (Cricetus cricetus) Using Quantitative Models. Ecology and Evolution, 15(10), e72353. https://doi.org/10.1002/ece3.72353"
+    "text": "Publications\n\nTomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating Management Scenarios for the European Hamster (Cricetus cricetus) Using Quantitative Models. Ecology and Evolution, 15(10), e72353. https://doi.org/10.1002/ece3.72353"
   },
   {
     "objectID": "people/ImkeTomsin.html#collaborations-outreach",
@@ -74,14 +74,14 @@
     "href": "people/ImkeTomsin.html#other-outreach",
     "title": "Imke Tomsin",
     "section": "Other Outreach",
-    "text": "Other Outreach\n\nArticles\n\nNatuurfocus\n\n\n\nPresentations\n\nBenelux zoology conference\nInternational Wildlife Conference 2025"
+    "text": "Other Outreach\n\nArticles\n\nTomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Natalie, B. (2025). Virtuele hamsters: Wat simulaties ons vertellen over de toekomst van de Europese hamster in Vlaanderen. NatuurFocus, 24(3), 112-120.\n\n\n\nConference presentations\n\nInternational Wildlife Congress 2025\nBenelux Congress of Zoology 2024\n\n\n\nInfodays\n\nWetenschap in en rond het Nationaal Park Hoge Kempen 2025\nINBO PhD-dag 2025"
   },
   {
     "objectID": "people/ImkeTomsin.html#collaborators-partners",
     "href": "people/ImkeTomsin.html#collaborators-partners",
     "title": "Imke Tomsin",
     "section": "Collaborators & Partners",
-    "text": "Collaborators & Partners\n\n\n\n\n\n\n\n\n\n\n\n[]\n\n\n\n\n\n\nHasselt university: main institute - Centre for Environmental Science\nFWO: funder - PhD fellowship fundamental research\nINBO: co-supervisor Dr. ir. Jim Casaer\nUniversity of Stirling: co-supervisors Prof. Dr. Nils Bunnefeld, Dr. Brad Duthie\nUniversity of Antwerp: co-supervisor Prof. Dr. Herwig Leirs"
+    "text": "Collaborators & Partners\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHasselt University: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts\nINBO (Research Institute for Nature and Forest): co-host institution, co-supervisor: Dr. ir. Jim Casaer\nFWO: Funding Source - PhD Fellowship Fundamental Research\nUniversity of Stirling: partner institution, co-supervisors: Prof. Dr. Nils Bunnefeld & Dr. Brad Duthie\nUniversity of Antwerp: partner institution, co-supervisor: Prof. Dr. Herwig Leirs"
   },
   {
     "objectID": "people/WimKuypers.html",
@@ -109,21 +109,21 @@
     "href": "people/WimKuypers.html#publications",
     "title": "Wim Kuypers",
     "section": "Publications",
-    "text": "Publications\n\n2025"
+    "text": "Publications"
   },
   {
     "objectID": "people/WimKuypers.html#other-outreach",
     "href": "people/WimKuypers.html#other-outreach",
     "title": "Wim Kuypers",
     "section": "Other Outreach",
-    "text": "Other Outreach"
+    "text": "Other Outreach\n\nArticles\n\n\n\n\n\nConference presentations\n\n\n\n\n\nInfo days"
   },
   {
     "objectID": "people/WimKuypers.html#collaborators-partners",
     "href": "people/WimKuypers.html#collaborators-partners",
     "title": "Wim Kuypers",
     "section": "Collaborators & Partners",
-    "text": "Collaborators & Partners\n\n\n\n\n\n\n\n\n\nAcademic:\n\nHasselt University\nUNamur"
+    "text": "Collaborators & Partners\n\n\n\n\n\n\n\n\n\nHasselt University: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts\nINBO (Research Institute for Nature and Forest): partner institution, co-supervisor: Dr. ir. Jim Casaer"
   },
   {
     "objectID": "people/SiebeIndestege.html",
@@ -142,30 +142,30 @@
   {
     "objectID": "people/SiebeIndestege.html#research-interests",
     "href": "people/SiebeIndestege.html#research-interests",
-    "title": "Imke Tomsin",
+    "title": "Siebe Indestege",
     "section": "Research Interests",
-    "text": "Research Interests\n\nIndividual-/agent-based models: …\n(Generalised) Management Strategy Evaluation: …\nUngulate species and their predators: …\nGood Modelling Practices: I’m committed to using Good Modelling Practices, e.g….\nHuman-wildlife conflict: …"
+    "text": "Research Interests"
   },
   {
     "objectID": "people/SiebeIndestege.html#publications",
     "href": "people/SiebeIndestege.html#publications",
-    "title": "Imke Tomsin",
+    "title": "Siebe Indestege",
     "section": "Publications",
-    "text": "Publications\n\n2025\n\nTomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating Management Scenarios for the European Hamster (Cricetus cricetus) Using Quantitative Models. Ecology and Evolution, 15(10), e72353. https://doi.org/10.1002/ece3.72353"
+    "text": "Publications"
   },
   {
     "objectID": "people/SiebeIndestege.html#other-outreach",
     "href": "people/SiebeIndestege.html#other-outreach",
-    "title": "Imke Tomsin",
+    "title": "Siebe Indestege",
     "section": "Other Outreach",
-    "text": "Other Outreach"
+    "text": "Other Outreach\n\nArticles\n\n\n\n\n\nConference presentations\n\n\n\n\n\nInfo days"
   },
   {
     "objectID": "people/SiebeIndestege.html#collaborators-partners",
     "href": "people/SiebeIndestege.html#collaborators-partners",
-    "title": "Imke Tomsin",
+    "title": "Siebe Indestege",
     "section": "Collaborators & Partners",
-    "text": "Collaborators & Partners\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcademic Partners: … (add logo’s)\nScience Communication: … (list conferences and other outreach? past vs upcoming?..)"
+    "text": "Collaborators & Partners\n\n\n\n\n\n\n\n\n\nHasselt University: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts\nINBO (Research Institute for Nature and Forest): partner institution, co-supervisor: Dr. ir. Jim Casaer"
   },
   {
     "objectID": "people.html#co-supervised-phd-students",
@@ -179,6 +179,104 @@
     "href": "people.html#past-collaborations",
     "title": "Our Team",
     "section": "Past collaborations",
-    "text": "Past collaborations\n\nPhD’s\n\nDr. Jolien Wevers (….-….)\nDr. Martijn Bollen (….-….)\n\n\n\nMaster students\n\nAnnelien Vantomme (2025-2026)\n\n\n\nBachelor students\n\nLisa Bongaers (2025-2026)\nRobbe Van Assche (2025-2026)\nGiel Maesen (2025-2026)"
+    "text": "Past collaborations\n\nPhDs\n\nDr. Jolien Wevers\nDr. Martijn Bollen\n\n\n\nMaster students\n\n2025-2026\n\nAnnelien Vantomme\n\n\n\n\nBachelor students\n\n2025-2026\n\nLisa Bongaers\nRobbe Van Assche\nGiel Maesen"
+  },
+  {
+    "objectID": "index.html#core-research-focus",
+    "href": "index.html#core-research-focus",
+    "title": "Field Research Centre",
+    "section": "",
+    "text": "Part of the European eLTER network, collecting data across Nationaal Park Hoge Kempen using camera traps and biologgers.\n\n\n\nInvestigating how human density, recreation, and habitat fragmentation impact wildlife dynamics and biodiversity in complex, multi-use landscapes.\n\n\n\nDeveloping predictive models to evaluate management strategies and support evidence-based wildlife management and conservation."
+  },
+  {
+    "objectID": "index.html#field-infrastructure-facilities",
+    "href": "index.html#field-infrastructure-facilities",
+    "title": "Field Research Centre",
+    "section": "",
+    "text": "Note📍 Located at the Gateway to National Park Hoge Kempen\n\n\n\nOur unique location provides direct access to heathland, pine forests, and restored ecosystems, serving as a living laboratory for national and international research collaborations."
+  },
+  {
+    "objectID": "index.html#recent-updates",
+    "href": "index.html#recent-updates",
+    "title": "Field Research Centre",
+    "section": "",
+    "text": "New Publication: Check out our team’s latest research on social-ecological systems and wildlife management.\nJoin Us: Interested in a Master’s thesis or PhD position at FRC? Get in touch with our team."
+  },
+  {
+    "objectID": "index.html#facilities",
+    "href": "index.html#facilities",
+    "title": "Field Research Centre",
+    "section": "",
+    "text": "FRC provides laboratories and teaching facilities for field excursions, practicals, and student thesis projects (BSc & MSc)."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "FRC provides laboratories and teaching facilities for field excursions, practicals, and student thesis projects (BSc & MSc)."
+  },
+  {
+    "objectID": "research.html#facilities",
+    "href": "research.html#facilities",
+    "title": "Research",
+    "section": "Facilities",
+    "text": "Facilities\n\nInfrastructure & Education\nFRC provides laboratories and teaching facilities for field excursions, practicals, and student thesis projects (BSc & MSc)."
+  },
+  {
+    "objectID": "people.html#co-supervised-phd-researchers",
+    "href": "people.html#co-supervised-phd-researchers",
+    "title": "Our Team",
+    "section": "Co-supervised PhD researchers",
+    "text": "Co-supervised PhD researchers\n\n\n\n\n\n\nEliana Muccio\nPhD researcher\nResearch focus: human-wolf interactions in Belgium\nLearn more"
+  },
+  {
+    "objectID": "people/ElianaMuccio.html#research-interests",
+    "href": "people/ElianaMuccio.html#research-interests",
+    "title": "Eliana Muccio",
+    "section": "Research Interests",
+    "text": "Research Interests"
+  },
+  {
+    "objectID": "people/ElianaMuccio.html#publications",
+    "href": "people/ElianaMuccio.html#publications",
+    "title": "Eliana Muccio",
+    "section": "Publications",
+    "text": "Publications"
+  },
+  {
+    "objectID": "people/ElianaMuccio.html#other-outreach",
+    "href": "people/ElianaMuccio.html#other-outreach",
+    "title": "Eliana Muccio",
+    "section": "Other Outreach",
+    "text": "Other Outreach\n\nArticles\n\n\n\n\n\nConference presentations\n\n\n\n\n\nInfo days"
+  },
+  {
+    "objectID": "people/ElianaMuccio.html#collaborators-partners",
+    "href": "people/ElianaMuccio.html#collaborators-partners",
+    "title": "Eliana Muccio",
+    "section": "Collaborators & Partners",
+    "text": "Collaborators & Partners\n\n\n\n\n\n\n\n\n\nHasselt University: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts\nINBO (Research Institute for Nature and Forest): partner institution, co-supervisor: Dr. Anneleen Rutten"
+  },
+  {
+    "objectID": "people/NatalieBeenaerts.html#research-interests",
+    "href": "people/NatalieBeenaerts.html#research-interests",
+    "title": "Natalie Beenaerts",
+    "section": "Research Interests",
+    "text": "Research Interests"
+  },
+  {
+    "objectID": "people/NatalieBeenaerts.html#publications",
+    "href": "people/NatalieBeenaerts.html#publications",
+    "title": "Natalie Beenaerts",
+    "section": "Publications",
+    "text": "Publications"
+  },
+  {
+    "objectID": "people/NatalieBeenaerts.html#other-outreach",
+    "href": "people/NatalieBeenaerts.html#other-outreach",
+    "title": "Natalie Beenaerts",
+    "section": "Other Outreach",
+    "text": "Other Outreach\n\nArticles\n\n\n\n\n\nConference presentations\n\n\n\n\n\nInfo days"
   }
 ]
