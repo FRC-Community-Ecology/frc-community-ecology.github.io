@@ -1,0 +1,90 @@
+---
+title: "Imke Tomsin" 
+subtitle: "PhD student - FWO fundamental research fellow"
+page-layout: full
+image: images/Imke.jpg # Use same image as the card on people.qmd
+about:
+  template: trestles # Places photo/links in a neat left sidebar
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:imke.tomsin@uhasselt.be # maybe add option to hover and show mailadress?
+    - icon: linkedin ## Change icons!!
+      text: LinkedIn
+      href: https://www.linkedin.com/in/imke-tomsin-740107122/
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0009-0009-4894-1487
+    - text: "{{< fa brands researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Imke-Tomsin-3?ev=hdr_xprf
+---
+
+## About Me
+
+My research focuses on the development and application of mechanistic models to support decision-making in wildlife management and conservation. I am particularly interested in human-wildlife interactions within social-ecological systems, with a focus on mammals including roe deer, wild boar, and wolves, and previously the European hamster.
+
+
+---
+
+## Research Interests
+
+* **Individual-/agent-based models**
+* **(Generalised) Management Strategy Evaluation**
+* **Ungulate species and their predators** 
+* **Good Modelling Practices**
+* **Human-wildlife conflict**
+
+---
+
+## Publications
+
+### 2025
+
+* Tomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating Management Scenarios for the European Hamster (Cricetus cricetus) Using Quantitative Models. Ecology and Evolution, 15(10), e72353. https://doi.org/10.1002/ece3.72353
+
+## Other Outreach 
+
+### Articles 
+
+* Natuurfocus 
+
+### Presentations
+
+* Benelux zoology conference
+* International Wildlife Conference 2025
+
+---
+
+## Collaborators & Partners
+
+::: {.grid .align-items-center .g-4 .my-3}
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/FWO.png){.collaborator-logo alt="FWO"}](https://www.fwo.be)
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/CMK.png){.collaborator-logo alt="Hasselt University"}](https://www.uhasselt.be)
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/INBO.png){.collaborator-logo alt="INBO"}](https://www.vlaanderen.be/inbo)
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/Stirling.jpg){.collaborator-logo alt="University of Stirling"}]
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/Antwerpen.png){.collaborator-logo alt="University of Antwerp"}](https://www.uantwerpen.be)
+:::
+
+:::
+
+* Hasselt university: main institute - Centre for Environmental Science
+* FWO: funder - PhD fellowship fundamental research 
+* INBO: co-supervisor Dr. ir. Jim Casaer
+* University of Stirling: co-supervisors Prof. Dr. Nils Bunnefeld, Dr. Brad Duthie
+* University of Antwerp: co-supervisor Prof. Dr. Herwig Leirs
+* 

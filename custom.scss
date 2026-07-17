@@ -2,7 +2,7 @@
 
 // ===== Colour palette =====
 
-// 1. Neutrals (Your originals + subtle steps)
+// 1. Neutrals
 $frc-dark-neutral: #1E1E17;
 $frc-dark:         #2D2D23; 
 $frc-light:        #D4C7B4;
@@ -12,13 +12,13 @@ $frc-light-bg:     #EAE3D8;
 $frc-green:        #7C7458; 
 $frc-green-dark:   #544F3C; 
 $frc-green-bright: #9E9473; 
-$frc-forest:       #4A5D4E; 
+$frc-forest:       #4A5D4E; // Currently unused
 
 // 3. Accents
 $frc-accent:       #B48954; 
 $frc-accent-light: #D4B083; 
 $frc-blue-sky:     #7A8F99; 
-$frc-rust:         #9E4B33; 
+$frc-rust:         #9E4B33; // Currently unused
 
 
 // ==== Bootstrap variables ====
@@ -43,25 +43,68 @@ $code-color: $frc-dark;
 
 /*-- scss:rules --*/
 
-// Code blocks 
+// ==== Member cards styling (Our Team) ==== 
+.member-card {
+  background-color: $frc-green-dark;
+  border: 1px solid rgba($frc-green, 0.3); 
+  color: $frc-light-bg; // Text
+  transition: transform 0.2s ease, border-color 0.2s ease; // Hover effect
+  &:hover {
+    transform: translateY(-4px);
+    border-color: $frc-accent;
+  }
+}
+
+.member-card h3 {
+  color: $frc-accent; // Names inside cards 
+  font-weight: 600;
+}
+
+.member-card .btn-outline-primary { // Button that connects to personal pages
+  color: $frc-accent;
+  border-color: $frc-accent;
+  
+  &:hover {
+    background-color: $frc-accent;
+    border-color: $frc-accent;
+    color: $frc-dark; // Dark text on gold button
+  }
+}
+
+// ==== Logos of collaborators/partners ====
+
+.collaborator-logo {
+  max-height: 55px;
+  width: auto;
+  object-fit: contain;
+  opacity: 1;
+  filter: grayscale(0%) brightness(1); 
+  transition: all 0.2s ease-in-out;
+
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+// ==== Code blocks styling ====
 
 /// Code block background  
 div.code-copy-outer-scaffold pre.code-with-copy,
 div.code-copy-outer-scaffold .sourceCode {
-  background-color: $frc-forest;
+  background-color: $frc-accent-light;
 }
 
 /// Code appearance
 
 div.code-copy-outer-scaffold code.sourceCode {
-  color: $frc-light-bg; // normal code text
+  color: $frc-dark-neutral; // normal code text
 
   // digits and operators
   span.dv { 
-    color: $frc-light-bg; // digits
+    color: $frc-dark-neutral; // digits
   }
   span.sc { 
-    color: $frc-light-bg; // special operators (e.g. +)
+    color: $frc-dark; // special operators (e.g. +)
   }
 }
 
@@ -74,7 +117,7 @@ div.code-copy-outer-scaffold code.sourceCode {
   }
 }
 
-// Code Output 
+// ==== Code output styling ====
 
 /// Box appearance
 pre {
@@ -87,4 +130,32 @@ pre {
 // Text appearance
 pre code {
   color: $frc-dark-neutral;
+}
+
+// ===== Custom Footer Styling =====
+
+footer.footer {
+  // Footer background color
+  background-color: $frc-green;
+  color: $frc-dark-neutral;
+  border-top: none;
+  min-height: 12rem;
+
+  // Add room at the top for the silhouettes
+  position: relative;
+  padding-top: 3rem;  // This leaves some room above the text and can be used to center it
+
+  // Place silhouettes at the top edge of the footer
+  background-image: url('images/silhouette.png'); 
+  background-repeat: no-repeat;                          
+  background-position: top left;                       
+  background-size: 30rem auto; // scales with zoom                            
+
+}
+
+// Other colours in the footer 
+.nav-footer {
+  background-color: rgba(0, 0, 0, 0);
+  color: $frc-dark-neutral;
+  font-size: 1.2rem;
 }

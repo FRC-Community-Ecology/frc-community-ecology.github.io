@@ -1,0 +1,14 @@
+---
+title: "Wim Kuypers" 
+subtitle: "PhD student"
+page-layout: full
+image: images/test.jpg # Use same image as the card on people.qmd
+about:
+  template: trestles # Places photo/links in a left sidebar
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:wim.kuypers@uhasselt.be
+---

@@ -8,16 +8,19 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
       - research.qmd
       - people.qmd
+  page-footer:
+    center: "**Field Research Centre** <br>
+    Hasselt University | Centre for Environmental Sciences <br>
+    <br>
+    Last updated: July 2026"
 
 format:
   html:
     theme:
       - cosmo
       - custom.scss
+    anchor-sections: false
     toc: true
-
-
 

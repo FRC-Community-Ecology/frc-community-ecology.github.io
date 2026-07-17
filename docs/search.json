@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Field Research Centre Hasselt University",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to our website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,173 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Our Team",
+    "section": "",
+    "text": "Professor - head of the Field Research Centre\nView Profile & Pubs"
+  },
+  {
+    "objectID": "people.html#principal-investigator",
+    "href": "people.html#principal-investigator",
+    "title": "Our Team",
+    "section": "",
+    "text": "Professor - head of the Field Research Centre\nView Profile & Pubs"
+  },
+  {
+    "objectID": "people.html#phd-researchers",
+    "href": "people.html#phd-researchers",
+    "title": "Our Team",
+    "section": "PhD researchers",
+    "text": "PhD researchers\n\n\n\n\n\n\nImke Tomsin\nPhD researcher\nResearch focus: mechanistic modelling to assess wildlife management strategies\nLearn more\n\n\n\n\n\n\n\n\n\nWim Kuypers\nPhD researcher\nResearch focus: influence of human disturbance on spatiotemporal behaviour of wildlife\nLearn more\n\n\n\n\n\n\n\n\n\nSiebe Indestege\nPhD researcher\nResearch focus: biologger and camera trapping methodology to study spatiotemporal behaviour of wildlife\nLearn more"
+  },
+  {
+    "objectID": "people/ImkeTomsin.html",
+    "href": "people/ImkeTomsin.html",
+    "title": "Imke Tomsin",
+    "section": "",
+    "text": "My research focuses on the development and application of mechanistic models to support decision-making in wildlife management and conservation. I am particularly interested in human-wildlife interactions within social-ecological systems, with a focus on mammals including roe deer, wild boar, and wolves, and previously the European hamster."
+  },
+  {
+    "objectID": "people/ImkeTomsin.html#about-me",
+    "href": "people/ImkeTomsin.html#about-me",
+    "title": "Imke Tomsin",
+    "section": "",
+    "text": "My research focuses on the development and application of mechanistic models to support decision-making in wildlife management and conservation. I am particularly interested in human-wildlife interactions within social-ecological systems, with a focus on mammals including roe deer, wild boar, and wolves, and previously the European hamster."
+  },
+  {
+    "objectID": "people/ImkeTomsin.html#research-interests",
+    "href": "people/ImkeTomsin.html#research-interests",
+    "title": "Imke Tomsin",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nIndividual-/agent-based models\n(Generalised) Management Strategy Evaluation\nUngulate species and their predators\nGood Modelling Practices\nHuman-wildlife conflict"
+  },
+  {
+    "objectID": "people/ImkeTomsin.html#publications",
+    "href": "people/ImkeTomsin.html#publications",
+    "title": "Imke Tomsin",
+    "section": "Publications",
+    "text": "Publications\n\n2025\n\nTomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating Management Scenarios for the European Hamster (Cricetus cricetus) Using Quantitative Models. Ecology and Evolution, 15(10), e72353. https://doi.org/10.1002/ece3.72353"
+  },
+  {
+    "objectID": "people/ImkeTomsin.html#collaborations-outreach",
+    "href": "people/ImkeTomsin.html#collaborations-outreach",
+    "title": "Imke Tomsin",
+    "section": "Collaborations & Outreach",
+    "text": "Collaborations & Outreach\n\nAcademic Partners: … (add logo’s)\nScience Communication: … (list conferences and other outreach? past vs upcoming?..)"
+  },
+  {
+    "objectID": "people/ImkeTomsin.html#other-outreach",
+    "href": "people/ImkeTomsin.html#other-outreach",
+    "title": "Imke Tomsin",
+    "section": "Other Outreach",
+    "text": "Other Outreach\n\nArticles\n\nNatuurfocus\n\n\n\nPresentations\n\nBenelux zoology conference\nInternational Wildlife Conference 2025"
+  },
+  {
+    "objectID": "people/ImkeTomsin.html#collaborators-partners",
+    "href": "people/ImkeTomsin.html#collaborators-partners",
+    "title": "Imke Tomsin",
+    "section": "Collaborators & Partners",
+    "text": "Collaborators & Partners\n\n\n\n\n\n\n\n\n\n\n\n[]\n\n\n\n\n\n\nHasselt university: main institute - Centre for Environmental Science\nFWO: funder - PhD fellowship fundamental research\nINBO: co-supervisor Dr. ir. Jim Casaer\nUniversity of Stirling: co-supervisors Prof. Dr. Nils Bunnefeld, Dr. Brad Duthie\nUniversity of Antwerp: co-supervisor Prof. Dr. Herwig Leirs"
+  },
+  {
+    "objectID": "people/WimKuypers.html",
+    "href": "people/WimKuypers.html",
+    "title": "Imke Tomsin",
+    "section": "",
+    "text": "My research focuses on the development and application of mechanistic models to support decision-making in wildlife management and conservation. I am particularly interested in human-wildlife interactions within social-ecological systems, with a focus on mammals including roe deer, wild boar, and wolves, and previously the European hamster."
+  },
+  {
+    "objectID": "people/WimKuypers.html#about-me",
+    "href": "people/WimKuypers.html#about-me",
+    "title": "Imke Tomsin",
+    "section": "",
+    "text": "My research focuses on the development and application of mechanistic models to support decision-making in wildlife management and conservation. I am particularly interested in human-wildlife interactions within social-ecological systems, with a focus on mammals including roe deer, wild boar, and wolves, and previously the European hamster."
+  },
+  {
+    "objectID": "people/WimKuypers.html#research-interests",
+    "href": "people/WimKuypers.html#research-interests",
+    "title": "Wim Kuypers",
+    "section": "Research Interests",
+    "text": "Research Interests"
+  },
+  {
+    "objectID": "people/WimKuypers.html#publications",
+    "href": "people/WimKuypers.html#publications",
+    "title": "Wim Kuypers",
+    "section": "Publications",
+    "text": "Publications\n\n2025"
+  },
+  {
+    "objectID": "people/WimKuypers.html#other-outreach",
+    "href": "people/WimKuypers.html#other-outreach",
+    "title": "Wim Kuypers",
+    "section": "Other Outreach",
+    "text": "Other Outreach"
+  },
+  {
+    "objectID": "people/WimKuypers.html#collaborators-partners",
+    "href": "people/WimKuypers.html#collaborators-partners",
+    "title": "Wim Kuypers",
+    "section": "Collaborators & Partners",
+    "text": "Collaborators & Partners\n\n\n\n\n\n\n\n\n\nAcademic:\n\nHasselt University\nUNamur"
+  },
+  {
+    "objectID": "people/SiebeIndestege.html",
+    "href": "people/SiebeIndestege.html",
+    "title": "Imke Tomsin",
+    "section": "",
+    "text": "My research focuses on the development and application of mechanistic models to support decision-making in wildlife management and conservation. I am particularly interested in human-wildlife interactions within social-ecological systems, with a focus on mammals including roe deer, wild boar, and wolves, and previously the European hamster."
+  },
+  {
+    "objectID": "people/SiebeIndestege.html#about-me",
+    "href": "people/SiebeIndestege.html#about-me",
+    "title": "Imke Tomsin",
+    "section": "",
+    "text": "My research focuses on the development and application of mechanistic models to support decision-making in wildlife management and conservation. I am particularly interested in human-wildlife interactions within social-ecological systems, with a focus on mammals including roe deer, wild boar, and wolves, and previously the European hamster."
+  },
+  {
+    "objectID": "people/SiebeIndestege.html#research-interests",
+    "href": "people/SiebeIndestege.html#research-interests",
+    "title": "Imke Tomsin",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nIndividual-/agent-based models: …\n(Generalised) Management Strategy Evaluation: …\nUngulate species and their predators: …\nGood Modelling Practices: I’m committed to using Good Modelling Practices, e.g….\nHuman-wildlife conflict: …"
+  },
+  {
+    "objectID": "people/SiebeIndestege.html#publications",
+    "href": "people/SiebeIndestege.html#publications",
+    "title": "Imke Tomsin",
+    "section": "Publications",
+    "text": "Publications\n\n2025\n\nTomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating Management Scenarios for the European Hamster (Cricetus cricetus) Using Quantitative Models. Ecology and Evolution, 15(10), e72353. https://doi.org/10.1002/ece3.72353"
+  },
+  {
+    "objectID": "people/SiebeIndestege.html#other-outreach",
+    "href": "people/SiebeIndestege.html#other-outreach",
+    "title": "Imke Tomsin",
+    "section": "Other Outreach",
+    "text": "Other Outreach"
+  },
+  {
+    "objectID": "people/SiebeIndestege.html#collaborators-partners",
+    "href": "people/SiebeIndestege.html#collaborators-partners",
+    "title": "Imke Tomsin",
+    "section": "Collaborators & Partners",
+    "text": "Collaborators & Partners\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcademic Partners: … (add logo’s)\nScience Communication: … (list conferences and other outreach? past vs upcoming?..)"
+  },
+  {
+    "objectID": "people.html#co-supervised-phd-students",
+    "href": "people.html#co-supervised-phd-students",
+    "title": "Our Team",
+    "section": "Co-supervised PhD students",
+    "text": "Co-supervised PhD students\n\nEliana Muccio"
+  },
+  {
+    "objectID": "people.html#past-collaborations",
+    "href": "people.html#past-collaborations",
+    "title": "Our Team",
+    "section": "Past collaborations",
+    "text": "Past collaborations\n\nPhD’s\n\nDr. Jolien Wevers (….-….)\nDr. Martijn Bollen (….-….)\n\n\n\nMaster students\n\nAnnelien Vantomme (2025-2026)\n\n\n\nBachelor students\n\nLisa Bongaers (2025-2026)\nRobbe Van Assche (2025-2026)\nGiel Maesen (2025-2026)"
   }
 ]

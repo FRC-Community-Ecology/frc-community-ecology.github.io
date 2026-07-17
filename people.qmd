@@ -1,4 +1,93 @@
 ---
-title: "People"
+title: "Our Team"
+page-layout: full
 ---
 
+## Principal Investigator
+
+::: {.grid} 
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="images/test.jpg" alt="Natalie Beenaerts" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Prof. Dr. Natalie Beenaerts {.h4 .mt-0}
+**Professor - head of the Field Research Centre**  
+
+<a href="people/NatalieBeenaerts.qmd" class="btn btn-outline-primary btn-sm mt-3">View Profile & Pubs</a>
+:::
+:::
+:::
+
+::: 
+
+
+## PhD researchers
+
+::: {.grid} 
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="images/test.jpg" alt="Imke Tomsin" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Imke Tomsin {.h4 .mt-0}
+**PhD researcher**  
+
+[Research focus: mechanistic modelling to assess wildlife management strategies]{.small .text-muted}
+
+<a href="people/ImkeTomsin.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="images/test.jpg" alt="Wim Kuypers" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Wim Kuypers {.h4 .mt-0}
+**PhD researcher**  
+
+[Research focus: influence of human disturbance on spatiotemporal behaviour of wildlife]{.small .text-muted}
+
+<a href="people/WimKuypers.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="images/test.jpg" alt="Siebe Indestege" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Siebe Indestege {.h4 .mt-0}
+**PhD researcher**  
+
+[Research focus: biologger and camera trapping methodology to study spatiotemporal behaviour of wildlife]{.small .text-muted}
+
+<a href="people/SiebeIndestege.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
+:::
+:::
+:::
+
+:::
+
+## Co-supervised PhD students 
+
+### Eliana Muccio
+
+## Past collaborations 
+
+### PhD's 
+* **Dr. Jolien Wevers** (....-....)
+* **Dr. Martijn Bollen** (....-....)
+
+### Master students 
+* Annelien Vantomme (2025-2026)
+
+### Bachelor students
+* Lisa Bongaers (2025-2026)
+* Robbe Van Assche (2025-2026)
+* Giel Maesen (2025-2026)
