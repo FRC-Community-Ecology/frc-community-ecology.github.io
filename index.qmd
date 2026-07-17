@@ -7,8 +7,10 @@ toc: false # Hide sidebar on the right
 
 The **Field Research Centre (FRC)** is the ecological field station of Hasselt University, located at the gateway to **Nationaal Park Hoge Kempen**. We conduct international research on the impacts of human activities on ecology and biodiversity.
 
-[Explore Our Research](research.qmd){.btn .btn-primary .btn-lg role="button"} [Meet the Team](people.qmd){.btn .btn-primary .btn-lg role="button"}
-
+::: {.d-flex .flex-wrap .gap-3 .my-3}
+[Explore Our Research](research.qmd){.btn .btn-primary .btn-lg role="button"}
+[Meet the Team](people.qmd){.btn .btn-primary .btn-lg role="button"}
+:::
 
 ## Core Research Focus
 

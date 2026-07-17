@@ -149,7 +149,7 @@ footer.footer {
   background-image: url('images/silhouette.png'); 
   background-repeat: no-repeat;                          
   background-position: top left;                       
-  background-size: 30rem auto; // scales with zoom                            
+  background-size: min(30rem, 100%) auto; // scales with zoom                            
 
 }
 

@@ -16,7 +16,7 @@ toc: false # No table of contents
 ### Prof. Dr. Natalie Beenaerts {.h4 .mt-0}
 **Professor - head of the Field Research Centre**  
 
-<a href="people/NatalieBeenaerts.qmd" class="btn btn-outline-primary btn-sm mt-3">View Profile & Pubs</a>
+<a href="people/NatalieBeenaerts.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
 :::
 :::
 :::
