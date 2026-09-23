@@ -30,12 +30,11 @@ My research focuses on the development and application of mechanistic models to 
 
 ## Research Interests
 
-* **Individual-/agent-based modelling**
-* **(Generalised) Management Strategy Evaluation ((G)MSE)**
-* **Human-wildlife interactions & social-ecological systems**
-* **Wildlife management & conservation**
-* **Good Modelling Practices & open science**
-* **Mammals**
+* Individual-based modelling
+* (Generalised) Management Strategy Evaluation ((G)MSE)
+* Human-wildlife interactions & social-ecological systems
+* Wildlife management & conservation
+* Good Modelling Practices & open science
 
 ---
 
@@ -43,20 +42,8 @@ My research focuses on the development and application of mechanistic models to 
 
 * Tomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating Management Scenarios for the European Hamster (Cricetus cricetus) Using Quantitative Models. Ecology and Evolution, 15(10), e72353. <https://doi.org/10.1002/ece3.72353>
 
-## Other Outreach 
+* Tomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Virtuele hamsters: Wat simulaties ons vertellen over de toekomst van de Europese hamster in Vlaanderen. NatuurFocus, 24(3), 112-120.
 
-### Articles 
-
-* Tomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Natalie, B. (2025). Virtuele hamsters: Wat simulaties ons vertellen over de toekomst van de Europese hamster in Vlaanderen. NatuurFocus, 24(3), 112-120.
-
-### Conference presentations
-
-* International Wildlife Congress 2025
-* Benelux Congress of Zoology 2024
-
-### Infodays 
-* Wetenschap in en rond het Nationaal Park Hoge Kempen 2025
-* INBO PhD-dag 2025
 
 ---
 

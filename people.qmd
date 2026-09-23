@@ -1,5 +1,5 @@
 ---
-title: "Our Team"
+title: "The Team"
 page-layout: full
 toc: false # No table of contents
 ---
@@ -73,12 +73,6 @@ toc: false # No table of contents
 :::
 :::
 
-:::
-
-## Co-supervised PhD researchers 
-
-::: {.grid} 
-
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
@@ -87,7 +81,7 @@ toc: false # No table of contents
 ### Eliana Muccio {.h4 .mt-0}
 **PhD researcher**  
 
-[Research focus: human-wolf interactions in Belgium]{.small .text-muted}
+[Research focus: human-wolf interactions]{.small .text-muted}
 
 <a href="people/ElianaMuccio.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
 :::
@@ -96,6 +90,24 @@ toc: false # No table of contents
 
 :::
 
+## Collaborating organisations 
+
+::: {.grid} 
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="images/logos/INBO.png" alt="INBO - Research Institute for Nature and Forest" class="rounded-2 mb-3" style="width: 170px; height: 100px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### INBO - Research Institute for Nature and Forest {.h4 .mt-0}
+
+<a href="people/INBO.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
+:::
+:::
+:::
+
+::: 
+
 ## Past collaborations 
 
 ### PhDs
@@ -103,11 +115,9 @@ toc: false # No table of contents
 * **Dr. Martijn Bollen**
 
 ### Master students 
-#### 2025-2026
-* Annelien Vantomme
+
+*2025 - 2026: Annelien Vantomme 
 
 ### Bachelor students
-#### 2025-2026
-* Lisa Bongaers
-* Robbe Van Assche
-* Giel Maesen
+
+*2025-2026: Lisa Bongaers, Robbe Van Assche, Giel Maesen

@@ -9,11 +9,15 @@ website:
     left:
       - research.qmd
       - people.qmd
+      - news.qmd
+      - publications.qmd
+      - contact.qmd
+      
   page-footer:
     center: "**Field Research Centre** <br>
     Hasselt University | Centre for Environmental Sciences <br>
     <br>
-    Last updated: July 2026"
+    Last updated: September 2026"
 
 format:
   html:
