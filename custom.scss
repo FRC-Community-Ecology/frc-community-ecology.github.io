@@ -4,15 +4,13 @@
 
 // 1. Neutrals
 $frc-dark-neutral: #1E1E17;
-$frc-dark:         #2D2D23; 
-$frc-light:        #D4C7B4;
+$frc-dark:         #181c19; 
 $frc-light-bg:     #EAE3D8; 
 
 // 2. Greens 
-$frc-green:        #7C7458; 
-$frc-green-dark:   #544F3C; 
-$frc-green-bright: #9E9473; 
-$frc-forest:       #4A5D4E; // Currently unused
+$frc-green:        #4A5D4E; 
+$frc-green-dark:   #1f2921; 
+$frc-green-bright: #667a6a; 
 
 // 3. Accents
 $frc-accent:       #B48954; 
@@ -38,7 +36,7 @@ $navbar-fg: $frc-light-bg;
 $navbar-hl: $frc-dark;
 
 // code block Defaults
-$code-bg: $frc-light;
+$code-bg: $frc-light-bg;
 $code-color: $frc-dark;
 
 /*-- scss:rules --*/
@@ -121,7 +119,7 @@ div.code-copy-outer-scaffold code.sourceCode {
 
 /// Box appearance
 pre {
-  background-color: $frc-light;
+  background-color: $frc-light-bg;
   border: 1px solid $frc-green-bright;
   border-radius: 8px;
   padding: 1rem;
@@ -158,4 +156,53 @@ footer.footer {
   background-color: rgba(0, 0, 0, 0);
   color: $frc-dark-neutral;
   font-size: 1.2rem;
+}
+
+// ==== Background video ====
+
+.hero-wrapper {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  margin-top: -3rem;   
+  overflow: hidden;
+}
+
+#bgvid {
+  width: 100%;             // Fits the full width of the page 
+  max-height: 400px;       // Controls the vertical height 
+  object-fit: cover;       // Crops edges without stretching/distorting the video
+  display: block;          // Removes baseline spacing bugs underneath standard media elements
+}
+
+// ==== Text overlay ====
+.hero-overlay {
+  position: absolute;
+  top: 25%;
+  right: 5%;
+  z-index: 2;
+  text-align: left;
+  padding: 1.5rem 2.5rem;
+  border-radius: 12px;
+  background-color: rgba($frc-light-bg, 0.65); 
+  backdrop-filter: blur(3px); 
+  
+  max-width: 450px;
+  width: 85%;
+
+  h1 {
+    color: $frc-green;
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin: 0 0 0.5rem 0;
+  }
+
+  p {
+    color: $frc-dark-neutral;
+    font-size: 1.1rem;
+    margin: 0;
+  }
 }

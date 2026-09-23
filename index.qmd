@@ -1,7 +1,21 @@
 ---
-page-layout: full
+page-layout: full 
 toc: false # Hide sidebar on the right
 ---
+
+<div class="hero-wrapper">
+  <video playsinline autoplay muted loop poster="images/placeholder.jpg" id="bgvid">
+    <source src="images/testvideo.mp4" type="video/mp4">
+  </video>
+
+  <div class="hero-overlay">
+
+# Field Research Centre
+    
+Ecological Field Station of Hasselt University
+
+  </div>
+</div>
 
 # Field Research Centre
 
@@ -36,5 +50,4 @@ Developing predictive models to evaluate management strategies and support evide
 <br>
 
 ![](images/CT_Boars.jpg){.img-fluid .w-100 .shadow-sm alt="Camera trap photo"}
-
 
