@@ -27,8 +27,9 @@ $body-color: $frc-light-bg; // text colour
 
 // Accents & links 
 $primary: $frc-green-bright;
-$secondary: $frc-accent;
+$secondary: $frc-green;
 $link-color: $frc-accent-light;
+$light: $frc-light-bg;
 
 // Navbar
 $navbar-bg: $frc-green;
@@ -40,6 +41,19 @@ $code-bg: $frc-light-bg;
 $code-color: $frc-dark;
 
 /*-- scss:rules --*/
+
+// ==== General buttons styling ====
+/// 
+.btn-frc {
+  color: $frc-light-bg;
+  background-color: $frc-accent;
+  
+  &:hover {
+    background-color: $frc-accent;
+    border-color: $frc-dark;
+    color: $frc-dark;
+  }
+}
 
 // ==== Member cards styling (Our Team) ==== 
 .member-card {

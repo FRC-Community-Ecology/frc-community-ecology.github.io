@@ -17,22 +17,32 @@ Ecological Field Station of Hasselt University
   </div>
 </div>
 
-# Field Research Centre
+<br>
 
-The **Field Research Centre (FRC)** is the ecological field station of Hasselt University, located at the gateway to **Nationaal Park Hoge Kempen**. We conduct international research on the impacts of human activities on ecology and biodiversity.
+## Who are we?
+
+The **Field Research Centre (FRC)** is the ecological field station of Hasselt University, positioned at the gateway to **Nationaal Park Hoge Kempen**. Operating within the ProtEct research group of the Centre for Environmental Sciences (CMK), our research ranges from long-term ecosystem monitoring to fundamental and applied studies on wildlife, biodiversity, human-nature interactions, and global change.
+
+We place a strong emphasis on national and international collaboration, student training, and science communication. Whether you are looking to partner on research, join our team, or simply explore our work, we welcome you to get in touch!
 
 ::: {.d-flex .flex-wrap .gap-3 .my-3}
 [Explore Our Research](research.qmd){.btn .btn-primary .btn-lg role="button"}
+
 [Meet the Team](people.qmd){.btn .btn-primary .btn-lg role="button"}
 :::
 
-## Core Research Focus
+## Research Focus
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}
-### 🔍 Long-Term Monitoring
-Part of the European **eLTER network**, collecting data across Nationaal Park Hoge Kempen using camera traps and biologgers.
+### 🔍 Long-Term Ecological Monitoring
+Part of the European **eLTER network**, collecting data across Nationaal Park Hoge Kempen using camera traps and IoT sensors.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### 🦇 Fundamental & Evolutionary Ecology
+Conducting empirical research on ecological traits, stress tolerance, and community structures across diverse ecosystems. 
 :::
 
 ::: {.g-col-12 .g-col-md-4}
