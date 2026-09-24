@@ -116,8 +116,8 @@ toc: false # No table of contents
 
 ### Master students 
 
-*2025 - 2026: Annelien Vantomme 
+2025 - 2026: Annelien Vantomme 
 
 ### Bachelor students
 
-*2025-2026: Lisa Bongaers, Robbe Van Assche, Giel Maesen
+2025-2026: Lisa Bongaers, Robbe Van Assche, Giel Maesen
