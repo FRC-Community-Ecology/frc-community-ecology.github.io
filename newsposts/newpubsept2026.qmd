@@ -1,0 +1,10 @@
+---
+title: "New Publication: HSP70 Genes in the Cuban Painted Snail"
+date: "2026-09-25"
+description: "New study characterising heat shock proteins in Cuban painted snail Polymita picta."
+---
+
+Congratulations to Mario Juan Gordillo-Pérez and co-authors on their new publication in *Frontiers in Ecology and Evolution*!
+
+* **Full Title:** *Genome-wide identification and evolutionary characterization of predicted HSP70 proteins in the Cuban painted snail Polymita picta*
+* **DOI:** [10.3389/fevo.2026.1933916](https://doi.org/10.3389/fevo.2026.1933916)

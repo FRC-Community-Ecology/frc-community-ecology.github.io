@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+page-layout: full
 bibliography: placeholder.bib
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
 nocite: |

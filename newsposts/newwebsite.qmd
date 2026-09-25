@@ -1,0 +1,9 @@
+---
+title: "Welcome to our new website!"
+date: "2026-09-24"
+description: "We launched our new group site."
+---
+
+We are excited to launch our new group website! 
+
+Follow this feed for future publications, project milestones, and group updates! :) 

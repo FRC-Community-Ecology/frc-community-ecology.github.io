@@ -1,4 +1,17 @@
 ---
 title: "News"
+page-layout: full
+toc: false
+listing:
+  contents: newsposts/*.qmd
+  type: table
+  sort: "date desc"
+  fields: [date, title, description]
+  field-display-names:
+    date: "Date"
+    title: "Update"
+    description: "Summary"
+  sort-ui: false
+  filter-ui: false
 ---
 
