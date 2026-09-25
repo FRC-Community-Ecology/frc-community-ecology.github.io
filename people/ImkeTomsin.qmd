@@ -11,14 +11,17 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:imke.tomsin@uhasselt.be # maybe add option to hover and show mailadress?
-    - icon: linkedin ## Change icons!!
+      href: mailto:imke.tomsin@uhasselt.be 
+    - icon: linkedin 
       text: LinkedIn
       href: https://www.linkedin.com/in/imke-tomsin-740107122/
     - text: "{{< fa brands orcid >}} ORCID"
       href: https://orcid.org/0009-0009-4894-1487
     - text: "{{< fa brands researchgate >}} ResearchGate"
       href: https://www.researchgate.net/profile/Imke-Tomsin-3?ev=hdr_xprf
+    - icon: window-sidebar
+      text: UHasselt page
+      href: https://www.uhasselt.be/nl/wie-is-wie/imke-tomsin 
 ---
 
 ## About Me
@@ -38,7 +41,7 @@ My research focuses on the development and application of mechanistic models to 
 
 ---
 
-## Publications
+## Highlighted publications
 
 * Tomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating Management Scenarios for the European Hamster (Cricetus cricetus) Using Quantitative Models. Ecology and Evolution, 15(10), e72353. <https://doi.org/10.1002/ece3.72353>
 
@@ -47,7 +50,7 @@ My research focuses on the development and application of mechanistic models to 
 
 ---
 
-## Collaborators & Partners
+## Collaborators, Partners & Funders
 
 ::: {.grid .align-items-center .g-4 .my-3}
 

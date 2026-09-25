@@ -1,4 +1,12 @@
 ---
 title: "Publications"
+bibliography: placeholder.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
+nocite: |
+  @*
 ---
 
+The following publications represent research conducted by or in collaboration with the Field Research Centre (FRC):
+
+::: {#refs}
+:::

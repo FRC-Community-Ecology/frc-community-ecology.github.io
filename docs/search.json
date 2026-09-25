@@ -207,7 +207,7 @@
     "href": "people.html#collaborating-organisations",
     "title": "The Team",
     "section": "Collaborating organisations",
-    "text": "Collaborating organisations\n\n\n\n\n\n\nINBO - Research Institute for Nature and Forest\nLearn more"
+    "text": "Collaborating organisations\n\n\n\n\n\n\nINBO - Research Institute for Nature and Forest\nVisit website"
   },
   {
     "objectID": "index.html#who-are-we",
@@ -250,5 +250,61 @@
     "title": "Contact",
     "section": "How to Get There",
     "text": "How to Get There\n\n🚗 Car\nTake Exit 33 on the E314 highway (Brussels – Aachen). Follow the signs for ‘Maasmechelen Leisure Valley’ along the route that runs alongside the canal for several kilometers.\nContinue following the main road through three roundabouts until you see signage directing you toward ‘PARKING EUROSCOOP’ and ‘TERHILLS’. Park your vehicle in this designated area.\nFrom the parking lot, walk approximately 300 meters through the historic French Garden. You will find the Field Research Centre located on your left side.\n\n\n\n\n🚌 Public transport\n\nTrain\nIf traveling by train, first take the train to Genk or Hasselt followed by a bus toward Maasmechelen.\n\n\nBus\nTake the line X44 heading toward Maasmechelen. Disembark at the stop: Maasmechelen Village (the final stop on this line).\nFrom the bus stop, follow the same walking route through the French Garden as shown in the map above!"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "The following publications represent research conducted by or in collaboration with the Field Research Centre (FRC):\n\n\nTomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating management scenarios for the european hamster ( &lt;i&gt;cricetus cricetus&lt;/i&gt; ) using quantitative models. Ecology and Evolution, 15(10). https://doi.org/10.1002/ece3.72353"
+  },
+  {
+    "objectID": "people/ImkeTomsin.html#highlighted-publications",
+    "href": "people/ImkeTomsin.html#highlighted-publications",
+    "title": "Imke Tomsin",
+    "section": "Highlighted publications",
+    "text": "Highlighted publications\n\nTomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating Management Scenarios for the European Hamster (Cricetus cricetus) Using Quantitative Models. Ecology and Evolution, 15(10), e72353. https://doi.org/10.1002/ece3.72353\nTomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Virtuele hamsters: Wat simulaties ons vertellen over de toekomst van de Europese hamster in Vlaanderen. NatuurFocus, 24(3), 112-120."
+  },
+  {
+    "objectID": "people.html#associated-members",
+    "href": "people.html#associated-members",
+    "title": "The Team",
+    "section": "Associated Members",
+    "text": "Associated Members\n\n\n\n\n\n\nDr. ir. Jim Casaer\nSenior researcher at INBO (Research Institute for Nature and Forest)\nLearn more\n\n\n\n\n\n\n\n\n\nDr. Mario Gordillo-Pérez\nResearcher\nLearn more"
+  },
+  {
+    "objectID": "people.html#student-researchers",
+    "href": "people.html#student-researchers",
+    "title": "The Team",
+    "section": "Student researchers",
+    "text": "Student researchers\n\n\n\n\n\n\nMichaël Van Kets\nMSc Biology\nProject: Establishing an ecological baseline for future monitoring of the impact of large herbivore rewilding in National Park Bosland\n\n\n\n\n\n\n\n\n\nMattice Ballet\nBSc Biology\nProject: Estimating population densities of roe deer (Capreolus capreolus), wild boar (Sus scrofa) and red fox (Vulpes vulpes) in National Park Hoge Kempen (NPHK)\n\n\n\n\n\n\n\n\n\nMaxim Rousseau\nBSc Biology\nProject: Habitat selection of wildlife in National Park Hoge Kempen using different methodologies"
+  },
+  {
+    "objectID": "people.html#past-members",
+    "href": "people.html#past-members",
+    "title": "The Team",
+    "section": "Past members",
+    "text": "Past members\n\nPhDs\n\nDr. Jolien Wevers\nDr. Martijn Bollen\n\n\n\nMaster students\n2025-2026: Annelien Vantomme\n\n\nBachelor students\n2025-2026: Lisa Bongaers, Robbe Van Assche, Giel Maesen"
+  },
+  {
+    "objectID": "people/ImkeTomsin.html#collaborators-partners-funders",
+    "href": "people/ImkeTomsin.html#collaborators-partners-funders",
+    "title": "Imke Tomsin",
+    "section": "Collaborators, Partners & Funders",
+    "text": "Collaborators, Partners & Funders\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHasselt University: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts\nINBO (Research Institute for Nature and Forest): co-host institution, co-supervisor: Dr. ir. Jim Casaer\nFWO: Funding Source - PhD Fellowship Fundamental Research\nUniversity of Stirling: partner institution, co-supervisors: Prof. Dr. Nils Bunnefeld & Dr. Brad Duthie\nUniversity of Antwerp: partner institution, co-supervisor: Prof. Dr. Herwig Leirs"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Long-term Infrastructure\n\n\nA continuous camera trap monitoring initiative collecting long-term spatial and temporal data on mammal populations in National Park Hoge Kempen. The network operated under a systematic random sampling design from 2017 to 2020 and has since transitioned into a stratified random sampling design. The dataset has already supported multiple published scientific studies, cross-institutional collaborations, and student thesis projects and internships.\n Access 2017–2020 Open Dataset on GBIF\n\n\n\nFunders:\n\n\n\n\n\n\n\n\n\n\nPhD Project\n\n\nWildlife management decisions often target a single species, overlooking complex species interactions and conflicting management goals. The PhD project of Imke Tomsin focuses on advancing the Generalised Management Strategy Evaluation (GMSE) mechanistic modelling framework to account for multiple interacting species and multi-objective decision-making in complex social-ecological systems.\n\n\n\nSupervisors: Prof. Dr. Natalie Beenaerts (Hasselt University), Dr. ir. Jim Casaer (INBO), Prof. Dr. Nils Bunnefeld & Dr. Brad Duthie (University of Stirling), Prof. Dr. Herwig Leirs (University of Antwerp)\n\n\nFunding: FWO PhD Fellowship Fundamental Research (Grant number 1120326N)"
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "",
+    "text": "Long-term Infrastructure\n\n\nA continuous camera trap monitoring initiative collecting long-term spatial and temporal data on mammal populations in National Park Hoge Kempen. The network operated under a systematic random sampling design from 2017 to 2020 and has since transitioned into a stratified random sampling design. The dataset has already supported multiple published scientific studies, cross-institutional collaborations, and student thesis projects and internships.\n Access 2017–2020 Open Dataset on GBIF\n\n\n\nFunders:\n\n\n\n\n\n\n\n\n\n\nPhD Project\n\n\nWildlife management decisions often target a single species, overlooking complex species interactions and conflicting management goals. The PhD project of Imke Tomsin focuses on advancing the Generalised Management Strategy Evaluation (GMSE) mechanistic modelling framework to account for multiple interacting species and multi-objective decision-making in complex social-ecological systems.\n\n\n\nSupervisors: Prof. Dr. Natalie Beenaerts (Hasselt University), Dr. ir. Jim Casaer (INBO), Prof. Dr. Nils Bunnefeld & Dr. Brad Duthie (University of Stirling), Prof. Dr. Herwig Leirs (University of Antwerp)\n\n\nFunding: FWO PhD Fellowship Fundamental Research (Grant number 1120326N)"
   }
 ]

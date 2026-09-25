@@ -1,11 +1,62 @@
 ---
 title: "Research"
+page-layout: full
 toc: false
 ---
-## Projects
+
+::: {.d-flex .flex-column .gap-4 .my-4}
+
+<!-- Start of new project -->
+::: {.card .shadow-sm .border-0 .bg-primary}
+::: {.card-body .p-4}
+
+::: {.d-flex .justify-content-between .align-items-start .mb-2}
+<h3 class="card-title text-dark m-0">2017-Present - LTER Camera Trap Wildlife Monitoring Network NPHK</h3>
+<span class="badge bg-dark fs-6">Long-term Infrastructure</span>
+:::
+
+<p class="card-text fs-5 mb-3">
+A continuous camera trap monitoring initiative collecting long-term spatial and temporal data on mammal populations in National Park Hoge Kempen. The network operated under a systematic random sampling design from 2017 to 2020 and has since transitioned into a stratified random sampling design. The dataset has already supported multiple published scientific studies, cross-institutional collaborations, and student thesis projects and internships. 
+
+[<i class="fa-solid fa-database me-1"></i> Access 2017–2020 Open Dataset on GBIF](https://www.gbif.org/dataset/50cebe49-559b-42e8-955d-1df120b03f89){.btn .btn-frc .btn-lg .mt-3 role="button" target="_blank"}
+</p>
 
 
-## Facilities
+::: {.row .pt-2 .border-top}
+::: {.col-md-6}
+**Funders:** 
+:::
+:::
 
-### Infrastructure & Education
-FRC provides **laboratories and teaching facilities** for field excursions, practicals, and student thesis projects (BSc & MSc).
+:::
+:::
+<!-- End of Project -->
+
+
+<!-- Start of new project -->
+::: {.card .shadow-sm .border-0 .bg-primary}
+::: {.card-body .p-4}
+
+::: {.d-flex .justify-content-between .align-items-start .mb-2}
+<h3 class="card-title text-dark m-0">2024-2029 - Expanding Management Strategy Evaluation ((G)MSE) for Multi-Species Wildlife Management and Conservation</h3>
+<span class="badge bg-dark fs-6">PhD Project</span>
+:::
+
+<p class="card-text fs-5 mb-3">
+Wildlife management decisions often target a single species, overlooking complex species interactions and conflicting management goals. The PhD project of **Imke Tomsin** focuses on advancing the Generalised Management Strategy Evaluation (GMSE) mechanistic modelling framework to account for multiple interacting species and multi-objective decision-making in complex social-ecological systems. 
+</p>
+
+::: {.row .pt-2 .border-top}
+::: {.col-md-6 .mb-2 .mb-md-0}
+**Supervisors:** Prof. Dr. Natalie Beenaerts (Hasselt University), Dr. ir. Jim Casaer (INBO), Prof. Dr. Nils Bunnefeld & Dr. Brad Duthie (University of Stirling), Prof. Dr. Herwig Leirs (University of Antwerp)
+:::
+::: {.col-md-6}
+**Funding:** FWO PhD Fellowship Fundamental Research (Grant number 1120326N)
+:::
+:::
+
+:::
+:::
+<!-- End of Project -->
+
+:::

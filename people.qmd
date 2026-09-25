@@ -11,7 +11,7 @@ toc: false # No table of contents
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="images/placeholder.jpg" alt="Natalie Beenaerts" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="people/images/placeholder.jpg" alt="Natalie Beenaerts" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Prof. Dr. Natalie Beenaerts {.h4 .mt-0}
 **Professor - head of the Field Research Centre**  
@@ -31,7 +31,7 @@ toc: false # No table of contents
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="images/placeholder.jpg" alt="Imke Tomsin" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="people/images/Imke.jpg" alt="Imke Tomsin" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Imke Tomsin {.h4 .mt-0}
 **PhD researcher**  
@@ -46,7 +46,7 @@ toc: false # No table of contents
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="images/placeholder.jpg" alt="Wim Kuypers" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="people/images/placeholder.jpg" alt="Wim Kuypers" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Wim Kuypers {.h4 .mt-0}
 **PhD researcher**  
@@ -61,7 +61,7 @@ toc: false # No table of contents
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="images/placeholder.jpg" alt="Siebe Indestege" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="people/images/placeholder.jpg" alt="Siebe Indestege" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Siebe Indestege {.h4 .mt-0}
 **PhD researcher**  
@@ -76,7 +76,7 @@ toc: false # No table of contents
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="images/placeholder.jpg" alt="Eliana Muccio" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="people/images/placeholder.jpg" alt="Eliana Muccio" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Eliana Muccio {.h4 .mt-0}
 **PhD researcher**  
@@ -90,6 +90,83 @@ toc: false # No table of contents
 
 :::
 
+## Associated Members 
+
+::: {.grid} 
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="people/images/placeholder.jpg" alt="Jim Casaer" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Dr. ir. Jim Casaer {.h4 .mt-0}
+**Senior researcher at INBO (Research Institute for Nature and Forest)**
+
+<a href="people/JimCasaer.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="people/images/placeholder.jpg" alt="Mario Gordillo Perez" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Dr. Mario Gordillo-Pérez {.h4 .mt-0}
+**Researcher**
+
+<a href="people/MarioGordilloPerez.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
+:::
+:::
+:::
+
+::: 
+
+## Student researchers
+
+::: {.grid} 
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="people/images/placeholder.jpg" alt="Michaël Van Kets" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Michaël Van Kets {.h4 .mt-0}
+**MSc Biology**
+
+[Project: Establishing an ecological baseline for future monitoring of the impact of large herbivore rewilding in National Park Bosland]{.small .text-muted}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="people/images/placeholder.jpg" alt="Mattice Ballet" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Mattice Ballet {.h4 .mt-0}
+**BSc Biology**  
+
+[Project: Estimating population densities of roe deer (Capreolus capreolus), wild boar (Sus scrofa) and red fox (Vulpes vulpes) in National Park Hoge Kempen (NPHK)]{.small .text-muted}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="people/images/placeholder.jpg" alt="Maxim Rousseau" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Maxim Rousseau {.h4 .mt-0}
+**BSc Biology** 
+
+[Project: Habitat selection of wildlife in National Park Hoge Kempen using different methodologies]{.small .text-muted}
+:::
+:::
+:::
+
+:::
+
 ## Collaborating organisations 
 
 ::: {.grid} 
@@ -97,18 +174,19 @@ toc: false # No table of contents
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="images/logos/INBO.png" alt="INBO - Research Institute for Nature and Forest" class="rounded-2 mb-3" style="width: 170px; height: 100px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="people/images/logos/INBO.png" alt="INBO - Research Institute for Nature and Forest" class="rounded-2 mb-3" style="width: 170px; height: 100px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### INBO - Research Institute for Nature and Forest {.h4 .mt-0}
 
-<a href="people/INBO.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
+<a href="https://www.vlaanderen.be/inbo/home/" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-sm mt-3">Visit website</a>
 :::
 :::
 :::
 
 ::: 
 
-## Past collaborations 
+
+## Past members 
 
 ### PhDs
 * **Dr. Jolien Wevers**
@@ -116,7 +194,7 @@ toc: false # No table of contents
 
 ### Master students 
 
-2025 - 2026: Annelien Vantomme 
+2025-2026: Annelien Vantomme 
 
 ### Bachelor students
 
