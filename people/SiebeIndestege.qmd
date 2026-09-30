@@ -1,9 +1,9 @@
 ---
 title: "Siebe Indestege" 
-subtitle: "PhD researcher"
+subtitle: "PhD researcher - BOF UHasselt"
 page-layout: full
 toc: false
-image: images/placeholder.jpg # Use same image as the card on people.qmd
+image: images/Siebe.jpg # Use same image as the card on people.qmd
 about:
   template: trestles 
   image-width: 12em
@@ -12,42 +12,42 @@ about:
     - icon: envelope
       text: Email
       href: mailto:siebe.indestege@uhasselt.be
-    - icon: linkedin
+    - icon: linkedin 
       text: LinkedIn
       href: https://www.linkedin.com/in/siebe-indestege-a057a02b3/
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0009-0001-0901-6338
+    - text: "{{< fa brands researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Siebe-Indestege?ev=hdr_xprf
+    - icon: window-sidebar
+      text: UHasselt page
+      href:  https://www.uhasselt.be/en/who-is-who/siebe-indestege 
 ---
 
 ## About Me
 
-
+My research focuses on the methodology behind long-term ecological monitoring, especially in wildlife monitoring, to support decision-making in wildlife management conservation. On the one side, I am interested in the possibilities of camera trap sampling designs modifications to allow multiple specific research questions to be investigated within one long-term monitoring project. On the other hand, I am inspired by modern GPS-trackers embedded in an IoT-network allowing broad-scale, budget-efficient, and highly technological data gathering.
 
 ---
 
 ## Research Interests
 
-* 
+* Camera trap sampling designs
+* Long-term ecological monitoring
+* Long Range Wide Area Networks (LoRaWAN)
+* Wildlife management & conservation
+
 
 ---
 
-## Publications
+## Highlighted Publications
 
-* 
+*   Indestege, S., Bollen, M., Casaer, J., & Beenaerts, N. (2025). Do long-term camera trap sampling designs matter to estimate diel activity? European Journal of Wildlife Research, 71(6), 132. https://doi.org/10.1007/s10344-025-02013-3
 
-## Other Outreach 
 
-### Articles 
-
-* 
-
-### Conference presentations
-
-* 
-
-### Info days 
-* 
 ---
 
-## Collaborators & Partners
+## Collaborators, Partners & Funders
 
 ::: {.grid .align-items-center .g-4 .my-3}
 
@@ -62,4 +62,4 @@ about:
 :::
 
 * **Hasselt University**: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts
-* **INBO** (Research Institute for Nature and Forest): partner institution, co-supervisor: Dr. ir. Jim Casaer
+* **INBO** (Research Institute for Nature and Forest): co-host institution, co-supervisor: Dr. ir. Jim Casaer

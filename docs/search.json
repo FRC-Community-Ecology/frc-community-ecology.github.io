@@ -25,7 +25,7 @@
     "href": "people.html#phd-researchers",
     "title": "The Team",
     "section": "PhD researchers",
-    "text": "PhD researchers\n\n\n\n\n\n\nImke Tomsin\nPhD researcher\nResearch focus: mechanistic modelling to assess wildlife management strategies\nLearn more\n\n\n\n\n\n\n\n\n\nWim Kuypers\nPhD researcher\nResearch focus: influence of human disturbance on spatiotemporal behaviour of wildlife\nLearn more\n\n\n\n\n\n\n\n\n\nSiebe Indestege\nPhD researcher\nResearch focus: biologger and camera trapping methodology to study spatiotemporal behaviour of wildlife\nLearn more\n\n\n\n\n\n\n\n\n\nEliana Muccio\nPhD researcher\nResearch focus: human-wolf interactions\nLearn more"
+    "text": "PhD researchers\n\n\n\n\n\n\nImke Tomsin\nPhD researcher\nResearch focus: mechanistic modelling to assess wildlife management strategies\nLearn more\n\n\n\n\n\n\n\n\n\nWim Kuypers\nPhD researcher\nResearch focus: influence of human disturbance on spatiotemporal behaviour of wildlife\nLearn more\n\n\n\n\n\n\n\n\n\nSiebe Indestege\nPhD researcher\nResearch focus: long-term wildlife monitoring methodologies\nLearn more\n\n\n\n\n\n\n\n\n\nEliana Muccio\nPhD researcher\nResearch focus: human-wolf interactions\nLearn more"
   },
   {
     "objectID": "people.html#associated-members",
@@ -56,32 +56,39 @@
     "text": "Past members\n\nPhDs\n\nDr. Jolien Wevers\nDr. Martijn Bollen\n\n\n\nMaster students\n2025-2026: Annelien Vantomme\n\n\nBachelor students\n2025-2026: Lisa Bongaers, Robbe Van Assche, Giel Maesen"
   },
   {
+    "objectID": "people/SiebeIndestege.html",
+    "href": "people/SiebeIndestege.html",
+    "title": "Siebe Indestege",
+    "section": "",
+    "text": "My research focuses on the methodology behind long-term ecological monitoring, especially in wildlife monitoring, to support decision-making in wildlife management conservation. On the one side, I am interested in the possibilities of camera trap sampling designs modifications to allow multiple specific research questions to be investigated within one long-term monitoring project. On the other hand, I am inspired by modern GPS-trackers embedded in an IoT-network allowing broad-scale, budget-efficient, and highly technological data gathering."
+  },
+  {
+    "objectID": "people/SiebeIndestege.html#about-me",
+    "href": "people/SiebeIndestege.html#about-me",
+    "title": "Siebe Indestege",
+    "section": "",
+    "text": "My research focuses on the methodology behind long-term ecological monitoring, especially in wildlife monitoring, to support decision-making in wildlife management conservation. On the one side, I am interested in the possibilities of camera trap sampling designs modifications to allow multiple specific research questions to be investigated within one long-term monitoring project. On the other hand, I am inspired by modern GPS-trackers embedded in an IoT-network allowing broad-scale, budget-efficient, and highly technological data gathering."
+  },
+  {
     "objectID": "people/SiebeIndestege.html#research-interests",
     "href": "people/SiebeIndestege.html#research-interests",
     "title": "Siebe Indestege",
     "section": "Research Interests",
-    "text": "Research Interests"
+    "text": "Research Interests\n\nCamera trap sampling designs\nLong-term ecological monitoring\nLong Range Wide Area Networks (LoRaWAN)\nWildlife management & conservation"
   },
   {
-    "objectID": "people/SiebeIndestege.html#publications",
-    "href": "people/SiebeIndestege.html#publications",
+    "objectID": "people/SiebeIndestege.html#highlighted-publications",
+    "href": "people/SiebeIndestege.html#highlighted-publications",
     "title": "Siebe Indestege",
-    "section": "Publications",
-    "text": "Publications"
+    "section": "Highlighted Publications",
+    "text": "Highlighted Publications\n\nIndestege, S., Bollen, M., Casaer, J., & Beenaerts, N. (2025). Do long-term camera trap sampling designs matter to estimate diel activity? European Journal of Wildlife Research, 71(6), 132. https://doi.org/10.1007/s10344-025-02013-3"
   },
   {
-    "objectID": "people/SiebeIndestege.html#other-outreach",
-    "href": "people/SiebeIndestege.html#other-outreach",
+    "objectID": "people/SiebeIndestege.html#collaborators-partners-funders",
+    "href": "people/SiebeIndestege.html#collaborators-partners-funders",
     "title": "Siebe Indestege",
-    "section": "Other Outreach",
-    "text": "Other Outreach\n\nArticles\n\n\n\n\n\nConference presentations\n\n\n\n\n\nInfo days"
-  },
-  {
-    "objectID": "people/SiebeIndestege.html#collaborators-partners",
-    "href": "people/SiebeIndestege.html#collaborators-partners",
-    "title": "Siebe Indestege",
-    "section": "Collaborators & Partners",
-    "text": "Collaborators & Partners\n\n\n\n\n\n\n\n\n\nHasselt University: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts\nINBO (Research Institute for Nature and Forest): partner institution, co-supervisor: Dr. ir. Jim Casaer"
+    "section": "Collaborators, Partners & Funders",
+    "text": "Collaborators, Partners & Funders\n\n\n\n\n\n\n\n\n\nHasselt University: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts\nINBO (Research Institute for Nature and Forest): co-host institution, co-supervisor: Dr. ir. Jim Casaer"
   },
   {
     "objectID": "people/ImkeTomsin.html",
