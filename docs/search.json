@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "2017-Present - LTER Camera Trap Wildlife Monitoring Network NPHK\n\nLong-term Infrastructure\n\n\nA continuous camera trap monitoring initiative collecting long-term spatial and temporal data on mammal populations in National Park Hoge Kempen. The network operated under a systematic random sampling design from 2017 to 2020 and has since transitioned into a stratified random sampling design. The dataset has already supported multiple published scientific studies, cross-institutional collaborations, and student thesis projects and internships.\n Access 2017–2020 Open Dataset on GBIF\n\n\n\nFunders:\n\n\n\n\n\n\n\n\n\n\n2024-2029 - Expanding Management Strategy Evaluation ((G)MSE) for Multi-Species Wildlife Management and Conservation\n\nPhD Project\n\n\nWildlife management decisions often target a single species, overlooking complex species interactions and conflicting management goals. The PhD project of Imke Tomsin focuses on advancing the Generalised Management Strategy Evaluation (GMSE) mechanistic modelling framework to account for multiple interacting species and multi-objective decision-making in complex social-ecological systems.\n\n\n\nSupervisors: Prof. Dr. Natalie Beenaerts (Hasselt University), Dr. ir. Jim Casaer (INBO), Prof. Dr. Nils Bunnefeld & Dr. Brad Duthie (University of Stirling), Prof. Dr. Herwig Leirs (University of Antwerp)\n\n\nFunding: FWO PhD Fellowship Fundamental Research (Grant number 1120326N)"
+  },
+  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "The Team",
@@ -39,7 +46,7 @@
     "href": "people.html#collaborating-organisations",
     "title": "The Team",
     "section": "Collaborating organisations",
-    "text": "Collaborating organisations\n\n\n\n\n\n\nINBO - Research Institute for Nature and Forest\nVisit website"
+    "text": "Collaborating organisations\n\n\n\n\n\n\nINBO - Research Institute for Nature and Forest\nVisit website\n\n\n\n\n\n\n\n\n\nUniversité de Namur\nVisit website"
   },
   {
     "objectID": "people.html#past-members",
@@ -250,5 +257,12 @@
     "title": "Wim Kuypers",
     "section": "Collaborators & Partners",
     "text": "Collaborators & Partners\n\n\n\n\n\n\n\n\n\nHasselt University: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts\nINBO (Research Institute for Nature and Forest): partner institution, co-supervisor: Dr. ir. Jim Casaer"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "The following publications represent research conducted by or in collaboration with the Field Research Centre (FRC):\n\n\nTomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating management scenarios for the european hamster ( &lt;i&gt;cricetus cricetus&lt;/i&gt; ) using quantitative models. Ecology and Evolution, 15(10). https://doi.org/10.1002/ece3.72353"
   }
 ]
