@@ -49,7 +49,7 @@ Before starting my PhD, I completed an MSc in Global Wildlife Health and Conserv
 ::: {.grid .align-items-center .g-4 .my-3}
 
 ::: {.g-col-6 .g-col-md-3 .text-center}
-[![](images/logos/UNamur.png){.collaborator-logo alt="CMK"}](https://www.uhasselt.be)
+[![](images/logos/UNamur.png){.collaborator-logo alt="CMK"}](https://www.unamur.be/fr)
 :::
 
 
