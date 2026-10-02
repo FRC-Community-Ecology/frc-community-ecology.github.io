@@ -194,7 +194,7 @@ toc: false # No table of contents
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="people/images/placeholder.jpg" alt="Mattice Ballet" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="people/images/Mattice.jpg" alt="Mattice Ballet" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Mattice Ballet {.h4 .mt-0}
 **BSc Biology**  
@@ -207,7 +207,7 @@ toc: false # No table of contents
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="people/images/placeholder.jpg" alt="Maxim Rousseau" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="people/images/Maxim.jpg" alt="Maxim Rousseau" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Maxim Rousseau {.h4 .mt-0}
 **BSc Biology** 
