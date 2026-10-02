@@ -110,12 +110,64 @@ toc: false # No table of contents
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
+<img src="people/images/placeholder.jpg" alt="Nicolas Dendoncker" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Prof. Dr. Nicolas Dendoncker {.h4 .mt-0}
+**Professor - UNamur**
+
+<a href="people/NicolasDendoncker.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="people/images/placeholder.jpg" alt="Anneleen Rutten" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Dr. Anneleen Rutten {.h4 .mt-0}
+**Researcher at INBO (Research Institute for Nature and Forest)**
+
+<a href="people/AnneleenRutten.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="people/images/placeholder.jpg" alt="Janet Cruz Portorreal" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Prof. Dr. Janet Cruz Portorreal {.h4 .mt-0}
+**Professor - Universidad de Oriente**
+
+<a href="people/JanetCruzPortorreal.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
 <img src="people/images/placeholder.jpg" alt="Mario Gordillo Perez" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Dr. Mario Gordillo-Pérez {.h4 .mt-0}
 **Researcher**
 
 <a href="people/MarioGordilloPerez.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="people/images/placeholder.jpg" alt="Robbe Van Wassenhove" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Robbe Van Wassenhove {.h4 .mt-0}
+**Researcher**
+
+<a href="people/RobbeVanWassenhove.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
 :::
 :::
 :::

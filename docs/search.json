@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "2017-Present - LTER Camera Trap Wildlife Monitoring Network NPHK\n\nLong-term Infrastructure\n\n\nA continuous camera trap monitoring initiative collecting long-term spatial and temporal data on mammal populations in National Park Hoge Kempen. The network operated under a systematic random sampling design from 2017 to 2020 and has since transitioned into a stratified random sampling design. The dataset has already supported multiple published scientific studies, cross-institutional collaborations, and student thesis projects and internships.\n Access 2017–2020 Open Dataset on GBIF\n\n\n\nFunders:\n\n\n\n\n\n\n\n\n\n\n2024-2029 - Expanding Management Strategy Evaluation ((G)MSE) for Multi-Species Wildlife Management and Conservation\n\nPhD Project\n\n\nWildlife management decisions often target a single species, overlooking complex species interactions and conflicting management goals. The PhD project of Imke Tomsin focuses on advancing the Generalised Management Strategy Evaluation (GMSE) mechanistic modelling framework to account for multiple interacting species and multi-objective decision-making in complex social-ecological systems.\n\n\n\nSupervisors: Prof. Dr. Natalie Beenaerts (Hasselt University), Dr. ir. Jim Casaer (INBO), Prof. Dr. Nils Bunnefeld & Dr. Brad Duthie (University of Stirling), Prof. Dr. Herwig Leirs (University of Antwerp)\n\n\nFunding: FWO PhD Fellowship Fundamental Research (Grant number 1120326N)"
-  },
-  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "The Team",
@@ -32,7 +25,7 @@
     "href": "people.html#associated-members",
     "title": "The Team",
     "section": "Associated Members",
-    "text": "Associated Members\n\n\n\n\n\n\nDr. ir. Jim Casaer\nSenior researcher at INBO (Research Institute for Nature and Forest)\nLearn more\n\n\n\n\n\n\n\n\n\nDr. Mario Gordillo-Pérez\nResearcher\nLearn more"
+    "text": "Associated Members\n\n\n\n\n\n\nDr. ir. Jim Casaer\nSenior researcher at INBO (Research Institute for Nature and Forest)\nLearn more\n\n\n\n\n\n\n\n\n\nProf. Dr. Nicolas Dendoncker\nProfessor - UNamur\nLearn more\n\n\n\n\n\n\n\n\n\nDr. Anneleen Rutten\nResearcher at INBO (Research Institute for Nature and Forest)\nLearn more\n\n\n\n\n\n\n\n\n\nProf. Dr. Janet Cruz Portorreal\nProfessor - Universidad de Oriente\nLearn more\n\n\n\n\n\n\n\n\n\nDr. Mario Gordillo-Pérez\nResearcher\nLearn more\n\n\n\n\n\n\n\n\n\nRobbe Van Wassenhove\nResearcher\nLearn more"
   },
   {
     "objectID": "people.html#student-researchers",
@@ -91,39 +84,32 @@
     "text": "Collaborators, Partners & Funders\n\n\n\n\n\n\n\n\n\nHasselt University: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts\nINBO (Research Institute for Nature and Forest): co-host institution, co-supervisor: Dr. ir. Jim Casaer"
   },
   {
-    "objectID": "people/ImkeTomsin.html",
-    "href": "people/ImkeTomsin.html",
-    "title": "Imke Tomsin",
+    "objectID": "people/ElianaMuccio.html",
+    "href": "people/ElianaMuccio.html",
+    "title": "Eliana Muccio",
     "section": "",
-    "text": "My research focuses on the development and application of mechanistic models to support decision-making in wildlife management and conservation. I am particularly interested in human-wildlife interactions within social-ecological systems, with a focus on mammals including roe deer, wild boar, and wolves, and previously the European hamster."
+    "text": "I am a PhD candidate at the Université de Namur and Hasselt University, where I am working on a project that examines human–wolf interactions in Belgium and explore how humans and wolves can coexist in such densely populated, agricultural landscapes. My research takes an interdisciplinary approach, combining public attitude surveys, media discourse analysis, and stakeholder engagement with local actors. Adopting such methodology, my aim is to develop evidence-based, socially inclusive strategies that bridge the gap between science, policy, and society.\nBefore starting my PhD, I completed an MSc in Global Wildlife Health and Conservation and a BSc in Zoology at the University of Bristol, where I conducted research on topics ranging from the impacts of marine tourism on bottlenose dolphins to sustainable rice cultivation practices in Madagascar. I also gained practical experience in conservation and fundamental conceptual knowledge of political ecology and human-nature coexistence through roles with the Convivial Conservation Centre, coordinating international projects and communication strategies aimed at spreading the word about Convivial conservation strategies. Through my work, I try to combine different social science perspectives and concepts to better understand human–wildlife interactions and contribute to conservation strategies that are both scientifically robust and socially inclusive."
   },
   {
-    "objectID": "people/ImkeTomsin.html#about-me",
-    "href": "people/ImkeTomsin.html#about-me",
-    "title": "Imke Tomsin",
+    "objectID": "people/ElianaMuccio.html#about-me",
+    "href": "people/ElianaMuccio.html#about-me",
+    "title": "Eliana Muccio",
     "section": "",
-    "text": "My research focuses on the development and application of mechanistic models to support decision-making in wildlife management and conservation. I am particularly interested in human-wildlife interactions within social-ecological systems, with a focus on mammals including roe deer, wild boar, and wolves, and previously the European hamster."
+    "text": "I am a PhD candidate at the Université de Namur and Hasselt University, where I am working on a project that examines human–wolf interactions in Belgium and explore how humans and wolves can coexist in such densely populated, agricultural landscapes. My research takes an interdisciplinary approach, combining public attitude surveys, media discourse analysis, and stakeholder engagement with local actors. Adopting such methodology, my aim is to develop evidence-based, socially inclusive strategies that bridge the gap between science, policy, and society.\nBefore starting my PhD, I completed an MSc in Global Wildlife Health and Conservation and a BSc in Zoology at the University of Bristol, where I conducted research on topics ranging from the impacts of marine tourism on bottlenose dolphins to sustainable rice cultivation practices in Madagascar. I also gained practical experience in conservation and fundamental conceptual knowledge of political ecology and human-nature coexistence through roles with the Convivial Conservation Centre, coordinating international projects and communication strategies aimed at spreading the word about Convivial conservation strategies. Through my work, I try to combine different social science perspectives and concepts to better understand human–wildlife interactions and contribute to conservation strategies that are both scientifically robust and socially inclusive."
   },
   {
-    "objectID": "people/ImkeTomsin.html#research-interests",
-    "href": "people/ImkeTomsin.html#research-interests",
-    "title": "Imke Tomsin",
+    "objectID": "people/ElianaMuccio.html#research-interests",
+    "href": "people/ElianaMuccio.html#research-interests",
+    "title": "Eliana Muccio",
     "section": "Research Interests",
-    "text": "Research Interests\n\nIndividual-based modelling\n(Generalised) Management Strategy Evaluation ((G)MSE)\nHuman-wildlife interactions & social-ecological systems\nWildlife management & conservation\nGood Modelling Practices & open science"
+    "text": "Research Interests\n\nHuman-wildlife coexistende studies\nSocial science in conservation\nPolitical ecology and power dynamics\nParticipatory action research\nTransformative change in biodiversity conservation"
   },
   {
-    "objectID": "people/ImkeTomsin.html#highlighted-publications",
-    "href": "people/ImkeTomsin.html#highlighted-publications",
-    "title": "Imke Tomsin",
-    "section": "Highlighted publications",
-    "text": "Highlighted publications\n\nTomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating Management Scenarios for the European Hamster (Cricetus cricetus) Using Quantitative Models. Ecology and Evolution, 15(10), e72353. https://doi.org/10.1002/ece3.72353\nTomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Virtuele hamsters: Wat simulaties ons vertellen over de toekomst van de Europese hamster in Vlaanderen. NatuurFocus, 24(3), 112-120."
-  },
-  {
-    "objectID": "people/ImkeTomsin.html#collaborators-partners-funders",
-    "href": "people/ImkeTomsin.html#collaborators-partners-funders",
-    "title": "Imke Tomsin",
+    "objectID": "people/ElianaMuccio.html#collaborators-partners-funders",
+    "href": "people/ElianaMuccio.html#collaborators-partners-funders",
+    "title": "Eliana Muccio",
     "section": "Collaborators, Partners & Funders",
-    "text": "Collaborators, Partners & Funders\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHasselt University: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts\nINBO (Research Institute for Nature and Forest): co-host institution, co-supervisor: Dr. ir. Jim Casaer\nFWO: Funding Source - PhD Fellowship Fundamental Research\nUniversity of Stirling: partner institution, co-supervisors: Prof. Dr. Nils Bunnefeld & Dr. Brad Duthie\nUniversity of Antwerp: partner institution, co-supervisor: Prof. Dr. Herwig Leirs"
+    "text": "Collaborators, Partners & Funders\n\n\n\n\n\n\n\n\n\n\n\n\nUniversity of Namur: host institution, supervisor: Prof. Dr. Nicolas Dendoncker\nHasselt University: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts\nINBO (Research Institute for Nature and Forest): co-supervisor: Dr. Anneleen Rutten"
   },
   {
     "objectID": "newsposts/newwebsite.html",
@@ -182,32 +168,39 @@
     "text": "Congratulations to Mario Juan Gordillo-Pérez and co-authors on their new publication in Frontiers in Ecology and Evolution!\n\nFull Title: Genome-wide identification and evolutionary characterization of predicted HSP70 proteins in the Cuban painted snail Polymita picta\nDOI: 10.3389/fevo.2026.1933916"
   },
   {
-    "objectID": "people/ElianaMuccio.html",
-    "href": "people/ElianaMuccio.html",
-    "title": "Eliana Muccio",
+    "objectID": "people/ImkeTomsin.html",
+    "href": "people/ImkeTomsin.html",
+    "title": "Imke Tomsin",
     "section": "",
-    "text": "I am a PhD candidate at the Université de Namur and Hasselt University, where I am working on a project that examines human–wolf interactions in Belgium and explore how humans and wolves can coexist in such densely populated, agricultural landscapes. My research takes an interdisciplinary approach, combining public attitude surveys, media discourse analysis, and stakeholder engagement with local actors. Adopting such methodology, my aim is to develop evidence-based, socially inclusive strategies that bridge the gap between science, policy, and society.\nBefore starting my PhD, I completed an MSc in Global Wildlife Health and Conservation and a BSc in Zoology at the University of Bristol, where I conducted research on topics ranging from the impacts of marine tourism on bottlenose dolphins to sustainable rice cultivation practices in Madagascar. I also gained practical experience in conservation and fundamental conceptual knowledge of political ecology and human-nature coexistence through roles with the Convivial Conservation Centre, coordinating international projects and communication strategies aimed at spreading the word about Convivial conservation strategies. Through my work, I try to combine different social science perspectives and concepts to better understand human–wildlife interactions and contribute to conservation strategies that are both scientifically robust and socially inclusive."
+    "text": "My research focuses on the development and application of mechanistic models to support decision-making in wildlife management and conservation. I am particularly interested in human-wildlife interactions within social-ecological systems, with a focus on mammals including roe deer, wild boar, and wolves, and previously the European hamster."
   },
   {
-    "objectID": "people/ElianaMuccio.html#about-me",
-    "href": "people/ElianaMuccio.html#about-me",
-    "title": "Eliana Muccio",
+    "objectID": "people/ImkeTomsin.html#about-me",
+    "href": "people/ImkeTomsin.html#about-me",
+    "title": "Imke Tomsin",
     "section": "",
-    "text": "I am a PhD candidate at the Université de Namur and Hasselt University, where I am working on a project that examines human–wolf interactions in Belgium and explore how humans and wolves can coexist in such densely populated, agricultural landscapes. My research takes an interdisciplinary approach, combining public attitude surveys, media discourse analysis, and stakeholder engagement with local actors. Adopting such methodology, my aim is to develop evidence-based, socially inclusive strategies that bridge the gap between science, policy, and society.\nBefore starting my PhD, I completed an MSc in Global Wildlife Health and Conservation and a BSc in Zoology at the University of Bristol, where I conducted research on topics ranging from the impacts of marine tourism on bottlenose dolphins to sustainable rice cultivation practices in Madagascar. I also gained practical experience in conservation and fundamental conceptual knowledge of political ecology and human-nature coexistence through roles with the Convivial Conservation Centre, coordinating international projects and communication strategies aimed at spreading the word about Convivial conservation strategies. Through my work, I try to combine different social science perspectives and concepts to better understand human–wildlife interactions and contribute to conservation strategies that are both scientifically robust and socially inclusive."
+    "text": "My research focuses on the development and application of mechanistic models to support decision-making in wildlife management and conservation. I am particularly interested in human-wildlife interactions within social-ecological systems, with a focus on mammals including roe deer, wild boar, and wolves, and previously the European hamster."
   },
   {
-    "objectID": "people/ElianaMuccio.html#research-interests",
-    "href": "people/ElianaMuccio.html#research-interests",
-    "title": "Eliana Muccio",
+    "objectID": "people/ImkeTomsin.html#research-interests",
+    "href": "people/ImkeTomsin.html#research-interests",
+    "title": "Imke Tomsin",
     "section": "Research Interests",
-    "text": "Research Interests\n\nHuman-wildlife coexistende studies\nSocial science in conservation\nPolitical ecology and power dynamics\nParticipatory action research\nTransformative change in biodiversity conservation"
+    "text": "Research Interests\n\nIndividual-based modelling\n(Generalised) Management Strategy Evaluation ((G)MSE)\nHuman-wildlife interactions & social-ecological systems\nWildlife management & conservation\nGood Modelling Practices & open science"
   },
   {
-    "objectID": "people/ElianaMuccio.html#collaborators-partners-funders",
-    "href": "people/ElianaMuccio.html#collaborators-partners-funders",
-    "title": "Eliana Muccio",
+    "objectID": "people/ImkeTomsin.html#highlighted-publications",
+    "href": "people/ImkeTomsin.html#highlighted-publications",
+    "title": "Imke Tomsin",
+    "section": "Highlighted publications",
+    "text": "Highlighted publications\n\nTomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating Management Scenarios for the European Hamster (Cricetus cricetus) Using Quantitative Models. Ecology and Evolution, 15(10), e72353. https://doi.org/10.1002/ece3.72353\nTomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Virtuele hamsters: Wat simulaties ons vertellen over de toekomst van de Europese hamster in Vlaanderen. NatuurFocus, 24(3), 112-120."
+  },
+  {
+    "objectID": "people/ImkeTomsin.html#collaborators-partners-funders",
+    "href": "people/ImkeTomsin.html#collaborators-partners-funders",
+    "title": "Imke Tomsin",
     "section": "Collaborators, Partners & Funders",
-    "text": "Collaborators, Partners & Funders\n\n\n\n\n\n\n\n\n\n\n\n\nUniversity of Namur: host institution, supervisor: Prof. Dr. Nicolas Dendoncker\nHasselt University: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts\nINBO (Research Institute for Nature and Forest): co-supervisor: Dr. Anneleen Rutten"
+    "text": "Collaborators, Partners & Funders\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHasselt University: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts\nINBO (Research Institute for Nature and Forest): co-host institution, co-supervisor: Dr. ir. Jim Casaer\nFWO: Funding Source - PhD Fellowship Fundamental Research\nUniversity of Stirling: partner institution, co-supervisors: Prof. Dr. Nils Bunnefeld & Dr. Brad Duthie\nUniversity of Antwerp: partner institution, co-supervisor: Prof. Dr. Herwig Leirs"
   },
   {
     "objectID": "people/NatalieBeenaerts.html#research-interests",
@@ -257,12 +250,5 @@
     "title": "Wim Kuypers",
     "section": "Collaborators & Partners",
     "text": "Collaborators & Partners\n\n\n\n\n\n\n\n\n\nHasselt University: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts\nINBO (Research Institute for Nature and Forest): partner institution, co-supervisor: Dr. ir. Jim Casaer"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "The following publications represent research conducted by or in collaboration with the Field Research Centre (FRC):\n\n\nTomsin, I., Duthie, A. B., Bunnefeld, N., Leirs, H., Casaer, J., & Beenaerts, N. (2025). Evaluating management scenarios for the european hamster ( &lt;i&gt;cricetus cricetus&lt;/i&gt; ) using quantitative models. Ecology and Evolution, 15(10). https://doi.org/10.1002/ece3.72353"
   }
 ]
