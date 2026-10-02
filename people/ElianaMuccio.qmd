@@ -1,52 +1,57 @@
 ---
 title: "Eliana Muccio" 
-subtitle: "PhD researcher"
+subtitle: "PhD researcher - BOF grant"
 page-layout: full
 toc: false
-image: images/placeholder.jpg # Use same image as the card on people.qmd
+image: images/Eliana.jpg # Use same image as the card on people.qmd
 about:
   template: trestles 
   image-width: 12em
   image-shape: round
   links:
-    - icon: linkedin
+    - icon: envelope
+      text: Email
+      href: mailto:eliana.muccio@unamur.be
+    - icon: linkedin 
       text: LinkedIn
-      href: https://www.linkedin.com/in/eliana-muccio/
+      href: https://www.linkedin.com/in/eliana-muccio/ 
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0009-0007-5858-1214
+    - text: "{{< fa brands researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Eliana_Muccio
+    - icon: window-sidebar
+      text: UHasselt page
+      href: https://www.uhasselt.be/nl/wie-is-wie/detail/eliana-muccio 
 ---
 
 ## About Me
 
+I am a PhD candidate at the Université de Namur and Hasselt University, where I am working on a project that examines human–wolf interactions in Belgium and explore how humans and wolves can coexist in such densely populated, agricultural landscapes. My research takes an interdisciplinary approach, combining public attitude surveys, media discourse analysis, and stakeholder engagement with local actors. Adopting such methodology, my aim is to develop evidence-based, socially inclusive strategies that bridge the gap between science, policy, and society.
+
+Before starting my PhD, I completed an MSc in Global Wildlife Health and Conservation and a BSc in Zoology at the University of Bristol, where I conducted research on topics ranging from the impacts of marine tourism on bottlenose dolphins to sustainable rice cultivation practices in Madagascar. I also gained practical experience in conservation and fundamental conceptual knowledge of political ecology and human-nature coexistence through roles with the Convivial Conservation Centre, coordinating international projects and communication strategies aimed at spreading the word about Convivial conservation strategies. Through my work, I try to combine different social science perspectives and concepts to better understand human–wildlife interactions and contribute to conservation strategies that are both scientifically robust and socially inclusive.
 
 
 ---
 
 ## Research Interests
 
-* 
+* Human-wildlife coexistende studies
+* Social science in conservation
+* Political ecology and power dynamics
+* Participatory action research
+* Transformative change in biodiversity conservation
+
 
 ---
 
-## Publications
-
-* 
-
-## Other Outreach 
-
-### Articles 
-
-* 
-
-### Conference presentations
-
-* 
-
-### Info days 
-* 
----
-
-## Collaborators & Partners
+## Collaborators, Partners & Funders
 
 ::: {.grid .align-items-center .g-4 .my-3}
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/UNamur.png){.collaborator-logo alt="CMK"}](https://www.uhasselt.be)
+:::
+
 
 ::: {.g-col-6 .g-col-md-3 .text-center}
 [![](images/logos/CMK.png){.collaborator-logo alt="CMK"}](https://www.uhasselt.be)
@@ -58,5 +63,6 @@ about:
 
 :::
 
+* **University of Namur**: host institution, supervisor: Prof. Dr. Nicolas Dendoncker
 * **Hasselt University**: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts
-* **INBO** (Research Institute for Nature and Forest): partner institution, co-supervisor: Dr. Anneleen Rutten
+* **INBO** (Research Institute for Nature and Forest): co-supervisor: Dr. Anneleen Rutten
