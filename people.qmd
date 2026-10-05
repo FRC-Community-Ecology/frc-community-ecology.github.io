@@ -51,7 +51,7 @@ toc: false # No table of contents
 ### Wim Kuypers {.h4 .mt-0}
 **PhD researcher**  
 
-[Research focus: assessing the influence of recreation on the spatiotemporal behaviour of wildlife]{.small .text-muted}
+[Research focus: the influence of recreation on the spatiotemporal behaviour of wildlife]{.small .text-muted}
 
 <a href="people/WimKuypers.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
 :::
@@ -177,10 +177,12 @@ toc: false # No table of contents
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="people/images/placeholder.jpg" alt="Robbe Van Wassenhove" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="people/images/Robbe.jpg" alt="Robbe Van Wassenhove" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Robbe Van Wassenhove {.h4 .mt-0}
 **Researcher**
+
+[Research focus: long-term ecological monitoring of bats and other small mammals]{.small .text-muted}
 
 <a href="people/RobbeVanWassenhove.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
 :::

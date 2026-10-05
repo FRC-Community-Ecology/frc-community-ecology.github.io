@@ -1,4 +1,62 @@
 ---
-title: "Robbe Van Wassenhove"
+title: "Robbe Van Wassenhove" 
+subtitle: "Researcher"
+page-layout: full
+toc: false
+image: images/Robbe.jpg # Use same image as the card on people.qmd
+about:
+  template: trestles 
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:robbe.vanwassenhove@uhasselt.be
+    - icon: linkedin 
+      text: LinkedIn
+      href: www.linkedin.com/in/robbe-van-wassenhove-a34a81294
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0009-0003-0377-2030
+    - text: "{{< fa brands researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Robbe-Van-Wassenhove-2
+    - icon: window-sidebar
+      text: UHasselt page
+      href: https://www.uhasselt.be/en/who-is-who/robbe-vanwassenhove 
 ---
+
+## About Me
+
+I study small mammals, with a primary focus on bats, in Belgian Limburg’s national parks and surrounding cross-border regions. My research focuses on generating long-term, fundamental data on small-mammal populations and their habitat use, as well as evaluating the effectiveness of nature restoration and landscape connectivity measures in supporting the favourable conservation status of these ecologically important species. 
+
+
+---
+
+## Research Interests
+
+* Landscape connectivity and habitat use
+* Behavioural ecology
+* Long-term ecological monitoring
+* Passive acoustic monitoring
+
+
+---
+
+## Highlighted Publications
+
+* Willems W., Janssen R., Boers K., Dekeukeleire D., Delbroek R., Roosen H., Vermeiren H. & Van Wassenhove R. 2024. Vleermuizen in historische boskernen in de Brabantse Wouden. Voorkomen en ruimtelijk gebruik van Bechsteins vleermuis, Ingekorven vleermuis en Mopsvleermuis. Rapport Natuurpunt Studie 2024/4, Mechelen.
+
+
+---
+
+## Collaborators, Partners & Funders
+
+::: {.grid .align-items-center .g-4 .my-3}
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/CMK.png){.collaborator-logo alt="CMK"}](https://www.uhasselt.be)
+:::
+
+:::
+
+* **Hasselt University**: host institution - Centre for Environmental Sciences, promotor: Prof. Dr. Natalie Beenaerts
 
