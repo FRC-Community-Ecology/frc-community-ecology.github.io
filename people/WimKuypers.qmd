@@ -3,7 +3,7 @@ title: "Wim Kuypers"
 subtitle: "PhD researcher"
 page-layout: full
 toc: false
-image: images/placeholder.jpg # Use same image as the card on people.qmd
+image: images/Wim.JPG # Use same image as the card on people.qmd
 about:
   template: trestles 
   image-width: 12em
@@ -12,42 +12,44 @@ about:
     - icon: envelope
       text: Email
       href: mailto:wim.kuypers@uhasselt.be
-    - icon: linkedin
+    - icon: linkedin 
       text: LinkedIn
-      href: https://www.linkedin.com/in/wim-kuypers-008279264/
+      href: https://www.linkedin.com/in/wim-kuypers-008279264/ 
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-7264-4073
+    - text: "{{< fa brands researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Wim-Kuypers?ev=hdr_xprf
+    - icon: window-sidebar
+      text: UHasselt page
+      href: https://www.uhasselt.be/nl/wie-is-wie/wim-kuypers 
 ---
 
 ## About Me
 
+I am a PhD researcher in environmental sciences focusing on human-wildlife interactions in highly visited protected areas. My research explores how different forms of human recreation influence spatiotemporal behaviour of wildlife, combining large-scale camera trap data with statistical modelling and human-tracking data sources such as social media-derived recreation data. Outside of my research, I am happiest when I can spend time outdoors and with friends. I enjoy hiking, camping, fishing, eating nice food, and simply going on adventures and exploring new places.
 
 
 ---
 
 ## Research Interests
 
-* 
+* Human-wildlife interactions
+* Recreation ecology
+* Spatiotemporal data analysis 
+* Camera trap and human-tracking data
+* Statistical modelling
+
 
 ---
 
-## Publications
+## Highlighted Publications
 
-* 
+* Kuypers, W., Bollen, M., Casaer, J., & Beenaerts, N. (2025). Trapped by trails: How different types of recreational trails influence seasonal space use of wildlife in a densely visited national park. Science of the Total Environment, 996, 180091. https://doi.org/10.1016/j.scitotenv.2025.180091
 
-## Other Outreach 
 
-### Articles 
-
-* 
-
-### Conference presentations
-
-* 
-
-### Info days 
-* 
 ---
 
-## Collaborators & Partners
+## Collaborators, Partners & Funders
 
 ::: {.grid .align-items-center .g-4 .my-3}
 
@@ -56,10 +58,15 @@ about:
 :::
 
 ::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/UNamur.png){.collaborator-logo alt="CMK"}](https://www.unamur.be/fr)
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
 [![](images/logos/INBO.png){.collaborator-logo alt="INBO"}](https://www.vlaanderen.be/inbo)
 :::
 
 :::
 
-* **Hasselt University**: host institution - Centre for Environmental Science, supervisor: Prof. Dr. Natalie Beenaerts
-* **INBO** (Research Institute for Nature and Forest): partner institution, co-supervisor: Dr. ir. Jim Casaer
+* **Hasselt University**: host institution - Centre for Environmental Sciences, supervisor: Prof. Dr. Natalie Beenaerts
+* **University of Namur**: host institution, supervisor: Prof. Dr. Nicolas Dendoncker
+* **INBO** (Research Institute for Nature and Forest): co-supervisor: Dr. ir. Jim Casaer

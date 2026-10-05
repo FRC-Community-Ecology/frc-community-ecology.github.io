@@ -1,0 +1,62 @@
+---
+title: "Prof. Dr. Yanet Cruz Portorreal"
+page-layout: full
+toc: false
+image: images/Yanet.jpg # Use same image as the card on people.qmd
+about:
+  template: trestles 
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:yanet.cruzportorreal@uhasselt.be
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/yanet-cruz-portorreal-650231203/
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-7127-6918 
+    - text: "{{< fa brands researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Yanet-Cruz-Portorreal?ev=hdr_xprf 
+    - icon: window-sidebar
+      text: UHasselt page
+      href: https://www.uhasselt.be/nl/wie-is-wie/detail/yanet-cruzportorreal 
+---
+
+## About Me
+
+My research focuses on coastal socio-ecological systems, with particular emphasis on mangrove ecosystems, climate change, carbon sequestration and resilience. I am interested in understanding the interactions between ecological processes and human activities in coastal areas, and in developing interdisciplinary approaches that can support climate-change mitigation, adaptation and sustainable coastal management. My current work combines socio-ecological systems thinking, integrated coastal management and DPSIR-based approaches to analyse drivers of environmental change, interactions between people and ecosystems, knowledge and information flows, and opportunities for strengthening resilience. I am particularly interested in linking ecological evidence, local and traditional knowledge, and stakeholder perspectives to inform more context-sensitive and actionable coastal management strategies, especially in the Cuban context.
+
+---
+
+## Research Interests
+
+* Coastal socio-ecological systems and resilience
+* Mangrove ecology, carbon sequestration and climate change 
+* Socio-ecological interactions and human-environment relationships
+* Integrated coastal management
+* DPSIR, participatory approaches and knowledge integration 
+
+
+---
+
+## Highlighted Publications
+
+* Cruz Portorreal, Y., Beenaerts, N., Koedam, N., Reyes Dominguez, O. J., Milanes, C. B., Dahdouh-Guebas, F., & Pérez Montero, O. (2024). Perception of mangrove social–ecological system governance in southeastern Cuba. Water, 16(17), 2495. https://doi.org/10.3390/w16172495
+
+* Cruz Portorreal, Y., Reyes Dominguez, O. J., Milanes, C. B., Mestanza-Ramón, C., Cuker, B., & Pérez Montero, O. (2022). Environmental Policy and Regulatory Framework for Managing Mangroves as a Carbon Sink in Cuba. Water, 14(23), 3903. https://doi.org/10.3390/w14233903 
+* Carlos Troche-Souza, Ariel E. Lugo, Tamara Heartsill-Scalley, Jorge López Portillo, Samuel Velázquez-Salazar, Andrés E. Fraiz-Toma, J. Alberto Alcántara-Maya, Edgar Villeda-Chávez, Berenice Vázquez-Balderas, Luis Valderrama-Landeros, Ma. Teresa Rodríguez-Zúñiga, Juan F. Blanco-Libreros Blanco-Libreros, Yanet Cruz Portorreal, Orlando Joel Reyes Domínguez, Lenin Corrales, Ana Laura Lara Domínguez, Denisse Cortés Castillo, J. Orlando Rangel-Ch, Diana Romero-D'Achiardi, Camilo Montes-Chaura, Siuling Cinco Castro, Jorge A. Herrera-Silvera, Claudia Teutli-Hernández, Paula Cristina Sierra-Correa, David A. Sánchez-Núñez, Jaime Polanía, Miguel Beltrán Gómez, Adolfo Quesada-Román, Hayler María Pérez Trejo, Miguel Cifuentes-Jara, Ena Suarez (2024). Lista Roja de Ecosistemas de la UICN, Manglares del Atlántico Noroccidental Tropical. 
+
+---
+
+## Collaborators, Partners & Funders
+
+::: {.grid .align-items-center .g-4 .my-3}
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/CMK.png){.collaborator-logo alt="CMK"}](https://www.uhasselt.be)
+:::
+
+:::
+
+* Hasselt university: Promotors Prof. Dr. Natalie Beenaerts & Prof. Dr. Nico Koedam

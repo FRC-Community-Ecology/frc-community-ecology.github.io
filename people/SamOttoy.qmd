@@ -1,0 +1,73 @@
+---
+title: "Prof. Dr. Sam Ottoy"
+subtitle: "Guest professor"
+page-layout: full
+toc: false
+image: images/Sam.jpg # Use same image as the card on people.qmd
+about:
+  template: trestles 
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:Sam.Ottoy@uhasselt.be
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sam-ottoy-158373b5
+    - text: "{{< fa brands orcid >}} ORCID"
+      href:  http://orcid.org/0000-0002-1216-9570
+    - text: "{{< fa brands researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Sam-Ottoy
+    - icon: window-sidebar
+      text: UHasselt page
+      href: https://www.uhasselt.be/nl/wie-is-wie/detail/sam-ottoy
+---
+
+## About Me
+
+Sam Ottoy is a researcher specialising in the domains of geographical information systems, urban ecosystems, wildfire risk assessments and drone remote sensing. He holds a PhD in Bioscience Engineering from KU Leuven.
+
+---
+
+## Research Interests
+
+* Urban greening
+* Wildfire risk assessments
+* Geographical Information Systems
+* Drone remote sensing
+
+
+---
+
+## Highlighted Publications
+
+* Ottoy, S., Nedelkou, J., De Witte, W., De Vocht, A. (2025). Mobile LiDAR applications to monitor the urban forest in the city of Hasselt, Belgium. Urban Forestry & Urban Greening, 114, Art.No. 129171. https://doi.org/10.1016/j.ufug.2025.129171
+
+* Choopani, A., Van Hout, A.W., Stavrakoudis, D., Gitas, I., Van Meerbeek, K., Ottoy, S. (2026). UAV LiDAR–MS Fusion and a Multi-Task Model for Overstory and Understory Fuel Type Mapping in Belgium. Presented at the International Fire Behaviour and Fuels Conference, Hobart, Tasmania, Australia, 28 Apr 2026-01 May 2026
+
+* Metsu, C. (corresp. author), Maes, W.H., Ottoy, S., Van Meerbeek, K. (2026). theRmalUAV: An R package to clean and correct thermal UAV data for accurate land surface temperatures. METHODS IN ECOLOGY AND EVOLUTION, 17 (2), 488-496.  https://doi.org/10.1111/2041-210x.70196
+
+* Van Hout, A.W., Choopani, A., Stavrakoudis, D., De Witte, W., Gitas, I., Van Meerbeek, K., Ottoy, S. (2025). Estimation of Burned Fuel Volumes in Heathland Ecosystems Using Multitemporal UAV LiDAR and Superpixel Classification. Drones, 9 (9), Art.No. 615. https://doi.org/10.3390/drones9090615
+
+* Ottoy, S. (corresp. author), Truyers, E., De Block, M., Lettens, S., Swinnen, W., Broothaerts, N., Hendrix, R., Van Orshoven, J., Verstraeten, G., De Vos, B., Vancampenhout, K. (2022). Digital mapping of soil organic carbon hotspots in nature conservation areas in the region of Flanders, Belgium. GEODERMA REGIONAL, 30, Art.No. ARTN e00531. https://doi.org/10.1016/j.geodrs.2022.e00531
+
+
+---
+
+## Collaborators, Partners & Funders
+
+::: {.grid .align-items-center .g-4 .my-3}
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/PXL.png){.collaborator-logo alt="PXL"}](https://www.pxl.be)
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/KULeuven.png){.collaborator-logo alt="KULeuven"}](https://www.kuleuven.be)
+:::
+
+:::
+
+* **PXL University of Applied Sciences and Arts**
+* **KU Leuven**
