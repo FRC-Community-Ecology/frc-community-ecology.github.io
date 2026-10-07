@@ -1,4 +1,53 @@
 ---
 title: "Anneleen Rutten"
+subtitle: "Senior researcher INBO"
+page-layout: full
+toc: false
+image: images/Anneleen.jpg 
+about:
+  template: trestles 
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:anneleen.rutten@inbo.be 
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-4025-5265
+    - text: "{{< fa brands researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Anneleen-Rutten
+    - icon: window-sidebar
+      text: INBO page
+      href: https://pureportal.inbo.be/nl/persons/anneleen-rutten/ 
 ---
+
+## About Me
+
+I studied biology with a specialisation in biodiversity conservation and management at the University of Antwerp, graduating in 2014. I then started my PhD research on wild boars in Flanders in collaboration with the Research Institute for Nature and Forest (INBO), focusing on agricultural damage and distribution patterns.
+
+After defending my dissertation in 2019, I joined the Wildlife Management & Coexistence research team at INBO. My current  work focuses on  human-wildlife interactions in Flanders, population and distribution modelling and management evaluation of species such as wolf, wild boar, roe deer and beaver. I have extensive expertise in statistical analysis and modelling in R, as well as human dimensions research.
+
+
+---
+
+## Research Interests
+
+* Human-wildlife interactions
+* Wildlife management and conservation
+* Statistical modelling
+* Camera trapping
+
+---
+
+## Highlighted publications
+
+* Casaer, Jim, and Anneleen Rutten. "Changes in public perceptions of wild boar presence and management in Flanders." Scientific Reports (2026). https://doi.org/10.1038/s41598-026-63701-x 
+
+* Huysentruyt, Frank, and Anneleen Rutten. "Combining habitat suitability with simulated movements for the predictive modelling of beaver distribution in Flanders." European Journal of Wildlife Research 70.4 (2024): 80. https://doi.org/10.1007/s10344-024-01831-1 
+
+* Rutten, A., Casaer, J., Strubbe, D., Leirs, H. (2019) Agricultural and landscape factors related to increasing wild boar agricultural damage in a highly anthropogenic landscape. Wildlife biology. 2020 (1).DOI: 10.2981/wlb.00634
+
+* Rutten, A., Casaer, J., Swinnen, K.R.R., Herremans, M. Leirs, H. (2019) Future distribution of wild boar in a highly anthropogenic landscape: Models combining hunting bag and citizen science data. Ecological Modelling 411 (2019) 108804. 1-9. DOI: 10.1016/j.ecolmodel.2019.108804
+
+* Geeraerts, C., Rutten, A., Cartuyvels, E., Verschelde, P., Devisscher, S., Turkelboom, F., Quataert, P., Casaer, J. (2021) Wild boar in Flanders, Belgium: (dis)agreements between key stakeholders on wild boar management objectives, actions, and legal provisions. Human-Wildlife Interactions. 15 (1): 81-94. DOI: 10.26077/2d91-8a88
 

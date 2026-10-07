@@ -138,10 +138,10 @@ toc: false # No table of contents
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="people/images/placeholder.jpg" alt="Anneleen Rutten" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="people/images/Anneleen.jpg" alt="Anneleen Rutten" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Dr. Anneleen Rutten {.h4 .mt-0}
-**Researcher at INBO (Research Institute for Nature and Forest)**
+**Senior Researcher at INBO**
 
 <a href="people/AnneleenRutten.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
 :::
@@ -156,6 +156,8 @@ toc: false # No table of contents
 ### Prof. Dr. Yanet Cruz Portorreal {.h4 .mt-0}
 **Professor - Universidad de Oriente**
 
+[Research focus: human-wildlife interactions]{.small .text-muted}
+
 <a href="people/YanetCruzPortorreal.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
 :::
 :::
@@ -164,10 +166,13 @@ toc: false # No table of contents
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="people/images/placeholder.jpg" alt="Mario Gordillo Perez" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="people/images/Mario.jpg" alt="Mario Gordillo Perez" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Dr. Mario Gordillo-Pérez {.h4 .mt-0}
 **Researcher**
+
+[Research focus: thermal biology & functional ecology]{.small .text-muted}
+
 
 <a href="people/MarioGordilloPerez.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
 :::

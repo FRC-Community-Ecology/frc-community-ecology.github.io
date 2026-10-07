@@ -1,4 +1,74 @@
 ---
-title: "Mario Juan Gordillo-Pérez"
+title: "Dr. Mario Juan Gordillo-Pérez"
+subtitle: "Researcher"
+page-layout: full
+toc: false
+image: images/Mario.jpg # Use same image as the card on people.qmd
+about:
+  template: trestles 
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:mariojuan.gordilloperez@uhasselt.be
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mario-juan-gordillo-p%C3%A9rez-20b658222/ 
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: hhttps://orcid.org/0000-0003-2264-3886
+    - text: "{{< fa brands researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Mario-Gordillo-Perez
+    - icon: window-sidebar
+      text: UHasselt page
+      href: https://www.uhasselt.be/nl/wie-is-wie/detail/mariojuan-gordilloperez 
 ---
+
+## About Me
+
+My research focuses on **thermal biology and functional ecology**, with an interest in understanding how organisms respond and adapt to environmental variation. I integrate **morphological, physiological and genomic approaches** to investigate functional traits, environmental stress responses and their evolutionary basis.
+
+During the last years, I used Cuban *Polymita* land snails as a **Neotropical model system**, combining the study of shell functional traits and tissue responses to acute thermal stress with the genomic characterization of molecular stress-response mechanisms. This integrative framework connects organismal phenotypes with cellular responses and gene-family evolution.
+
+More broadly, my research interests lie at the intersection of **functional ecology, evolutionary biology and conservation**. A particular interest of mine is extending this work toward **comparative thermal biology, contrasting organisms from tropical and temperate environments to understand how different thermal regimes shape functional traits, stress responses and  adaptation**.
+
+---
+
+## Research Interests
+
+* Thermal biology & thermal adaptation
+* Functional & evolutionary ecology
+* Ecophysiology & environmental stress
+* Comparative & functional genomics 
+* Biodiversity & conservation under environmental change
+
+
+---
+
+## Highlighted Publications
+
+* Gordillo-Pérez, M. J., Reyes-Tur, B., Chen, Z., Sigwart, J., Greve, C., Heleven, M., Smeets, K., & Beenaerts, N. (2026). Genome-wide identification and evolutionary characterization of predicted HSP70 proteins in the Cuban painted snail Polymita picta. Frontiers in Ecology and Evolution, 14, 1933916. Frontiers
+https://doi.org/10.3389/fevo.2026.1933916
+
+* Gordillo-Pérez, M. J., Beenaerts, N., Sánchez, D. L., Smeets, K., Arias-Sosa, Y. C., & Reyes-Tur, B. (2025). Shell colour luminance of Cuban painted snails, Polymita picta and Polymita muscarum (Gastropoda: Cepolidae). PLOS ONE, 20(1), e0314008. PLOS
+https://doi.org/10.1371/journal.pone.0314008
+
+
+---
+
+## Collaborators, Partners & Funders
+
+::: {.grid .align-items-center .g-4 .my-3}
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/CMK.png){.collaborator-logo alt="CMK"}](https://www.uhasselt.be)
+:::
+
+:::
+
+* **Hasselt University**: PhD host institution; research on environmental stress, functional traits and conservation biology.
+* **Universidad de Oriente, Cuba**: Long-term collaboration on the ecology, evolution, conservation and genomics of Cuban terrestrial molluscs.
+* **Senckenberg Research Institute and Natural History Museum**: Collaboration on molluscan evolutionary biology, genomics and shell functional morphology.
+* **Vrije Universiteit Amsterdam & University of Nottingham**: International research collaborations associated with the biological and genomic study of Polymita.
+* **Royal Belgian Institute of Natural Sciences (RBINS)**: Research collaboration in molluscan biology.
 
