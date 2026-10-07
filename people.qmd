@@ -280,33 +280,33 @@ toc: false # No table of contents
 
 ### Master & Bachelor thesis students (UHasselt) 
 
-**2025-2026**: Annelien Vantomme, Lisa Bongaers, Robbe Van Assche, Giel Maesen
-**2024-2025**: Noah May, Stan Moors, Ward Wuestenberghs, Kim Verhemeldonck, Luna Vlayen, Robbe Van Wassenhove, Arne Beck, Freya Strackx, Roos Corbeels
-**2023-2024**: Katrijn De Ryck, Marie Nijs, Nena Vossen
-**2022-2023**: Birk Auwerkerken, De Greef Robine, Nynke De Vries, Willard Loots, Frank van Montfort, Fien Vandenberghe
-**2021-2022**: Jo Vandersanden, Gianni De Coster
-**2020-2021**: Siebe Indestege, Janne Bekaert, Jasper Roussard, Emmanuel Van Biesbrouck, Ebe Verheyen 
-**2019-2020**: Wim Kuypers, Stoffel Wirges, Tibo Simons, Michaël van Kets
-**2018-2019**: Sam Bielen, Lorens Christiaens, Laura Evenepoel, Jessie Machiels, Laurens Le Jeune, Sven Baerten
-**2017-2018**: Stefanie Kelchtermans, Yens Vandenboer, Sam Vastmans, Brecht Massoels, Eva Vanstraelen, Thibeau Bottu, Alexander Aerts, Eva Andries, Gust Boiten, Roel Lammerant, Ann-Kathrin Coenen, Iris D'Huys
-**2016-2017**: Ellen Truyers, Pieter Scholberg, Lisa Partoens
-**2015-2016**: Michiel Hamelinck
-**2014-2015**: Tina Coenegracht, Kris Somers
-**2013-2014**: Jolien Wevers, Gilles Busé, Lucas Robin
+**2025-2026**: Annelien Vantomme, Lisa Bongaers, Robbe Van Assche, Giel Maesen  
+**2024-2025**: Noah May, Stan Moors, Ward Wuestenberghs, Kim Verhemeldonck, Luna Vlayen, Robbe Van Wassenhove, Arne Beck, Freya Strackx, Roos Corbeels  
+**2023-2024**: Katrijn De Ryck, Marie Nijs, Nena Vossen  
+**2022-2023**: Birk Auwerkerken, De Greef Robine, Nynke De Vries, Willard Loots, Frank van Montfort, Fien Vandenberghe  
+**2021-2022**: Jo Vandersanden, Gianni De Coster  
+**2020-2021**: Siebe Indestege, Janne Bekaert, Jasper Roussard, Emmanuel Van Biesbrouck, Ebe Verheyen   
+**2019-2020**: Wim Kuypers, Stoffel Wirges, Tibo Simons, Michaël van Kets  
+**2018-2019**: Sam Bielen, Lorens Christiaens, Laura Evenepoel, Jessie Machiels, Laurens Le Jeune, Sven Baerten  
+**2017-2018**: Stefanie Kelchtermans, Yens Vandenboer, Sam Vastmans, Brecht Massoels, Eva Vanstraelen, Thibeau Bottu, Alexander Aerts, Eva Andries, Gust Boiten, Roel Lammerant, Ann-Kathrin Coenen, Iris D'Huys  
+**2016-2017**: Ellen Truyers, Pieter Scholberg, Lisa Partoens  
+**2015-2016**: Michiel Hamelinck  
+**2014-2015**: Tina Coenegracht, Kris Somers  
+**2013-2014**: Jolien Wevers, Gilles Busé, Lucas Robin  
 
 ### External (co-)supervised master theses
 
-**2023-2024**: Imke Tomsin (University of Antwerp)
-**2022-2023**: Siebe Indestege (KU Leuven)
-**2020-2021**: Ward Hamaekers (Inland Norway University of Applied Sciences), Sam Bielen (University of Antwerp)
-**2019-2020**: Jo DeRyck (KU Leuven)
-**2018-2019**: Mathieu Olbrechts (KU Leuven)
+**2023-2024**: Imke Tomsin (University of Antwerp)  
+**2022-2023**: Siebe Indestege (KU Leuven)  
+**2020-2021**: Ward Hamaekers (Inland Norway University of Applied Sciences), Sam Bielen (University of Antwerp)  
+**2019-2020**: Jo DeRyck (KU Leuven)  
+**2018-2019**: Mathieu Olbrechts (KU Leuven)  
 
 
 ### Internships
-**2024-2025**: Rowin Lamers, Joël Bal (HAS Hogeschool, Netherlands)
-**2022-2023**: Max Langeveld (HAS Hogeschool, Netherlands)
-**2020-2021**: Kato Switten (Hogeschool PXL)
-**2019-2020**: Anne Habets (Hogeschool PXL), Amelia Lieva
-**2018-2019**: Joshua Seelen (HAS Hogeschool, Netherlands), Jonathan Withofs (Hogeschool PXL)
-**2015-2016**: Vera Pfannenstiller (Université de Montpellier, France)
+**2024-2025**: Rowin Lamers, Joël Bal (HAS Hogeschool, Netherlands)  
+**2022-2023**: Max Langeveld (HAS Hogeschool, Netherlands)  
+**2020-2021**: Kato Switten (Hogeschool PXL)  
+**2019-2020**: Anne Habets (Hogeschool PXL), Amelia Lieva  
+**2018-2019**: Joshua Seelen (HAS Hogeschool, Netherlands), Jonathan Withofs (Hogeschool PXL)  
+**2015-2016**: Vera Pfannenstiller (Université de Montpellier, France)  
