@@ -17,7 +17,7 @@ about:
     - text: "{{< fa brands orcid >}} ORCID"
       href: https://orcid.org/0000-0001-7127-6918 
     - text: "{{< fa brands researchgate >}} ResearchGate"
-      href: https://www.researchgate.net/profile/Yanet-Cruz-Portorreal?ev=hdr_xprf 
+      href: https://www.researchgate.net/profile/Yanet-Cruz-Portorreal
     - icon: window-sidebar
       text: UHasselt page
       href: https://www.uhasselt.be/nl/wie-is-wie/detail/yanet-cruzportorreal 

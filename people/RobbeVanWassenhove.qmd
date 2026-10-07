@@ -18,7 +18,7 @@ about:
     - text: "{{< fa brands orcid >}} ORCID"
       href: https://orcid.org/0009-0003-0377-2030
     - text: "{{< fa brands researchgate >}} ResearchGate"
-      href: https://www.researchgate.net/profile/Robbe-Van-Wassenhove-2
+      href: https://www.researchgate.net/profile/Robbe-Van-Wassenhove
     - icon: window-sidebar
       text: UHasselt page
       href: https://www.uhasselt.be/en/who-is-who/robbe-vanwassenhove 

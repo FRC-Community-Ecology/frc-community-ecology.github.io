@@ -18,7 +18,7 @@ about:
     - text: "{{< fa brands orcid >}} ORCID"
       href: https://orcid.org/0009-0009-4894-1487
     - text: "{{< fa brands researchgate >}} ResearchGate"
-      href: https://www.researchgate.net/profile/Imke-Tomsin-3?ev=hdr_xprf
+      href: https://www.researchgate.net/profile/Imke-Tomsin
     - icon: window-sidebar
       text: UHasselt page
       href: https://www.uhasselt.be/nl/wie-is-wie/imke-tomsin 

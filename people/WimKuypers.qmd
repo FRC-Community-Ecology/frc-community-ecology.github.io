@@ -18,7 +18,7 @@ about:
     - text: "{{< fa brands orcid >}} ORCID"
       href: https://orcid.org/0000-0001-7264-4073
     - text: "{{< fa brands researchgate >}} ResearchGate"
-      href: https://www.researchgate.net/profile/Wim-Kuypers?ev=hdr_xprf
+      href: https://www.researchgate.net/profile/Wim-Kuypers
     - icon: window-sidebar
       text: UHasselt page
       href: https://www.uhasselt.be/nl/wie-is-wie/wim-kuypers 

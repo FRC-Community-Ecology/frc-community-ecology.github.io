@@ -18,7 +18,7 @@ about:
     - text: "{{< fa brands orcid >}} ORCID"
       href: https://orcid.org/0009-0001-0901-6338
     - text: "{{< fa brands researchgate >}} ResearchGate"
-      href: https://www.researchgate.net/profile/Siebe-Indestege?ev=hdr_xprf
+      href: https://www.researchgate.net/profile/Siebe-Indestege
     - icon: window-sidebar
       text: UHasselt page
       href:  https://www.uhasselt.be/en/who-is-who/siebe-indestege 

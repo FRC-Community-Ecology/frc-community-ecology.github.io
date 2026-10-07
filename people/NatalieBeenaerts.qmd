@@ -3,7 +3,7 @@ title: "Natalie Beenaerts"
 subtitle: "Professor - head of the Field Research Centre"
 page-layout: full
 toc: false
-image: images/placeholder.jpg # Use same image as the card on people.qmd
+image: images/Natalie.jpg # Use same image as the card on people.qmd
 about:
   template: trestles 
   image-width: 12em
@@ -19,36 +19,18 @@ about:
       href: https://orcid.org/0000-0001-5655-5943
     - text: "{{< fa brands researchgate >}} ResearchGate"
       href: https://www.researchgate.net/profile/Natalie-Beenaerts
+    - icon: window-sidebar
+      text: UHasselt page
+      href: https://www.uhasselt.be/nl/wie-is-wie/detail/natalie-beenaerts
 ---
 
 ## About Me
 
 
+A few years after the establishment of the National Park Hoge Kempen, I took the challenge to establish and lead the Field Research Centre of Hasselt University. It has become a long-term data monitoring location, where UHasselt assesses innovative socio-ecological activities and biotic diversity. It not only generates unique data for the European-wide standardised data collective, needed for understanding biodiversity loss and changes but also focuses on studying species-species and species-environment interactions.
 
----
+As such, the FRC has been able to support nature managers and policy-makers at large to contribute towards integrated conservation management plans for more than 10 years now. 
 
-## Research Interests
+This research and many collaborations have resulted in the supervision of bachelor theses (>50), master (>8) and PhD projects (12) and successful infrastructure applications, such as Ecotron Hasselt University (part of ESFRI-AnaEE) Cameratraps from ESFRI-LifeWatch.
 
-* 
-
----
-
-## Publications
-
-* 
-
-## Other Outreach 
-
-### Articles 
-
-* 
-
-### Conference presentations
-
-* 
-
-### Info days 
-* 
----
-
-
+During my professional activities **collaboration** has always been a main driver. Not only locally and regionally but also internationally including the global South. In my early career I managed the Kenya-Belgium projects in Marine Sciences in Mombasa for 2,5 years (based in Mombasa from 1996-1999; new initiatives VLIR-UOS). Besides developing and organising a master marine training course along the coast of Kenya, I managed the visits of the local and visiting researchers, arranged logistics and infrastructure. From 2000-2006, I coordinated the international Master in Ecological Marine Management (VLIR-UOS ICP; VUB-UA, Belgium). In between I was a scientific collaborator at Flanders Marine Institute (VLIZ). Since my appointment at Hasselt University I have continued these international endeavours. I was the co-team lead of one of the projects of the VLIR-UOS IUC with universidad de Oriente, Cuba (from 2012-2024). In 2024, I also organized a workshop for the ITP CiPhil project in the Philippines and performed a mission to Lubumbashi (CDR) as an expert for another VLIRUOS IUC and King Boudewijn Foundation. Recently, I became the co-coordinator of a new long-term VLIRUOS IUC with Universidad Technical del Norte in Imbabura (Ecuador). I undermine this sincere commitment not only by coordinating and optimising the curricula but also by actively supervising several PhD students from the Global South. 
