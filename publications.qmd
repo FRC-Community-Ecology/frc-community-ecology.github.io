@@ -1,11 +1,19 @@
 ---
-title: "Publications"
-page-layout: full
-bibliography: placeholder.bib
-csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
+title: "Publications" 
+bibliography: works_NB_oct2026.bib
+csl: apa-datedesc.csl
 nocite: |
   @*
+# See https://quarto.org/docs/authoring/citations.html for more info on how to handle citation in quarto
 ---
+
+<style>
+/* Add space between individual entries */
+#refs div.csl-entry {
+  margin-bottom: 1.25rem;
+  line-height: 1.6;
+}
+</style>
 
 The following publications represent research conducted by or in collaboration with the Field Research Centre (FRC):
 

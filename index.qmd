@@ -52,7 +52,7 @@ Investigating how human density, recreation, and habitat fragmentation impact wi
 
 ::: {.g-col-12 .g-col-md-4}
 ### 🐗 Mechanistic Modelling
-Developing predictive models to evaluate management strategies and support evidence-based wildlife management and conservation.
+Developing predictive models to evaluate management strategies and support evidence-based wildlife and wildfire management and conservation.
 :::
 
 :::
