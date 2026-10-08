@@ -230,7 +230,7 @@ footer.footer {
 // ==== Text overlay ====
 .hero-overlay {
   position: absolute;
-  top: 25%;
+  top: 15%;
   right: 5%;
   z-index: 2;
   text-align: left;
@@ -254,6 +254,12 @@ footer.footer {
     font-size: 1.1rem;
     margin: 0;
   }
+  
+  .hero-logo {
+    max-height: 90px;       /* Adjust height to fit your banner design */
+    width: auto;            /* Keeps original image aspect ratio */
+    margin-top: 0.7rem;    /* Creates space under the text */
+}
   
   // Mobile phone overrides 
   @media (max-width: 768px){
