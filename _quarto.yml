@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+  - "google236138b44c78c86c.html"
 
 website:
   title: "Field Research Centre Hasselt University"
