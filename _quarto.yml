@@ -5,6 +5,9 @@ project:
 website:
   title: "Field Research Centre Hasselt University"
   description: This is the website of the Field Research Centre of Hasselt University Centre for Environmental Sciences.
+  site-url: "https://frc-community-ecology.github.io/"
+  site-path: '/'
+  
   navbar:
     left:
       - research.qmd
