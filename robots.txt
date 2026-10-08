@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://frc-community-ecology.github.io/sitemap.xml
