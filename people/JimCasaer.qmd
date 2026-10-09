@@ -1,4 +1,84 @@
 ---
 title: "Jim Casaer"
+subtitle: "Senior researcher at INBO"
+page-layout: full
+toc: false
+image: images/Jim.jpg 
+about:
+  template: trestles 
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jim.casaer@inbo.be
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jim-casaer-3247055/  
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-6788-5876
+    - text: "{{< fa brands researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Jim-Casaer
+    - icon: window-sidebar
+      text: INBO page
+      href: https://pureportal.inbo.be/nl/persons/jim-casaer/
+    - icon: window-sidebar
+      text: Faunabeheer page
+      href: https://faunabeheer.inbo.be
 ---
+
+## About Me
+
+After graduating as a MSC in Forestry at the Faculty of Bioscience Engineering of the Katholieke Universiteit Leuven (KUL)  in Belgium, I spent a year at the at the University of Natural Resources and Life Sciences in Vienna (DOKU - Austria), specialising in wildlife management and research techniques. Back in Belgium I made a PhD on the habitat use of roe deer.
+ 
+Since 1999 I’ve been working at the Research Institute for Nature and Forests of the Flemish Government (INBO). Currently, research into the ecology and adaptive management of ungulate species such as wild boar and roe deer are at the centre of my work. For this purpose we combine different types of data and methods such as the analysis of  hunting data, camera trapping, GPS-telemetry, drones, genetics, GIS and population modelling, but also social survey methods to investigate human attitudes and are in close contact with stakeholder groups, foresty administration and policy makers. Thereby, research into socio-ecological systems and decision science are becoming more prominent parts of my research activities to find answers for complex wildlife management issues and enhance human-wildlife coexistence in Flanders
+
+
+
+---
+
+## Research Interests
+
+* Human-wildlife interactions
+* Ungulates
+* Wildlife management
+* Structured decision-making
+* Camera trapping
+* Human dimensions of wildlife management
+
+---
+
+## Highlighted publications
+
+* Casaer, Jim, and Anneleen Rutten. "Changes in public perceptions of wild boar presence and management in Flanders." Scientific Reports (2026). https://doi.org/10.1038/s41598-026-63701-x 
+
+* Kuypers, W., Bollen, M., Casaer, J., & Beenaerts, N. (2025). Trapped by trails: How different types of recreational trails influence seasonal space use of wildlife in a densely visited national park. Science of the total environment, 996, 180091. 10.1016/j.scitotenv.2025.180091
+
+* Bubnicki, J. W., Norton, B., Baskauf, S. J., Bruce, T., Cagnacci, F., Casaer, J., ... & Desmet, P. (2024). Camtrap DP: an open standard for the FAIR exchange and archiving of camera trap data. Remote sensing in ecology and conservation, 10(3), 283-295. doi: 10.1002/rse2.374
+
+* Burton, A. C., Beirne, C., Gaynor, K. M., Sun, C., Granados, A., Allen, M. L., ... & Oberosler, V. (2024). Mammal responses to global changes in human activity vary by trophic group and landscape. Nature ecology & evolution, 8(5), 924-935. https://doi.org/10.1038/s41559-024-02363-2 
+
+* Martijn, B., Thomas, N., Natalie, B., & Jim, C. (2024). Impacts of zoning and landscape structure on the relative abundance of wild boar assessed through a Bayesian N-mixture model. Science of the total environment, 911, 168546. doi:10.1016/j.scitotenv.2025.180091 
+
+* Geeraerts, C., Rutten, A., Cartuyvels, E., Verschelde, P., Devisscher, S., Turkelboom, F., Quataert, P., Casaer, J. (2021) Wild boar in Flanders, Belgium: (dis)agreements between key stakeholders on wild boar management objectives, actions, and legal provisions. Human-Wildlife Interactions. 15 (1): 81-94. DOI: 10.26077/2d91-8a88
+
+* Rutten, A., Casaer, J., Strubbe, D., Leirs, H. (2019) Agricultural and landscape factors related to increasing wild boar agricultural damage in a highly anthropogenic landscape. Wildlife biology. 2020 (1). DOI: 10.2981/wlb.00634
+
+
+---
+
+## Collaborators, Partners & Funders
+
+::: {.grid .align-items-center .g-4 .my-3}
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/INBO.png){.collaborator-logo alt="INBO"}](https://www.vlaanderen.be/inbo)
+:::
+
+:::
+
+* **INBO** (Research Institute for Nature and Forest): host institution
+
+
+
 

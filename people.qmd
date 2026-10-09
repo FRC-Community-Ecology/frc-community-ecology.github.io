@@ -97,10 +97,12 @@ toc: false # No table of contents
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="people/images/placeholder.jpg" alt="Jim Casaer" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="people/images/Jim.jpg" alt="Jim Casaer" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Dr. ir. Jim Casaer {.h4 .mt-0}
-**Senior researcher at INBO (Research Institute for Nature and Forest)**
+**Senior researcher at INBO**
+
+[Research focus: human-wildlife interactions, ungulates, wildlife management, structured decision-making, camera trapping]{.small .text-muted}
 
 <a href="people/JimCasaer.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
 :::
