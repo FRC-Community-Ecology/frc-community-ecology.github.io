@@ -1,0 +1,89 @@
+---
+title: "Michiel Lathouwers"
+subtitle: "Researcher at INBO"
+page-layout: full
+toc: false
+image: images/Michiel.jpg 
+about:
+  template: trestles 
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:michiel.lathouwers@inbo.be
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/michiel-lathouwers-7326781b7/  
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-8426-4788
+    - text: "{{< fa brands researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Michiel-Lathouwers
+    - icon: window-sidebar
+      text: UHasselt page
+      href: https://www.uhasselt.be/nl/wie-is-wie/detail/michiel-lathouwers 
+    - icon: window-sidebar
+      text: INBO page
+      href: https://pureportal.inbo.be/nl/persons/michiel-lathouwers/
+---
+
+## About Me
+
+I studied biology at Hasselt University (BSc) and the University of Antwerp (MSc), graduating in 2019 with a specialisation in biodiversity conservation and restoration. During my doctoral research at Hasselt University and the University of Namur, I combined movement ecology and spatial modelling to investigate the migration and habitat selection of European Nightjars and their responses to anthropogenic environmental change.
+
+Since 2023, I have been a researcher in the Wildlife Management and Coexistence team at INBO, where I apply my background in avian ecology to human–wildlife interactions. My current work mainly focuses on corvids (“crows”), including topics such as agricultural damage and predation on threatened species. 
+
+I combine field research with innovative monitoring techniques, e.g. passive acoustic monitoring and biologging, alongside species distribution and population modelling. Through this work, I aim to understand how birds interact with changing environments and how this in turn affects us, providing a scientific basis for their conservation and management.
+
+
+
+---
+
+## Research Interests
+
+* Human-wildlife interactions
+* Movement ecology
+* Distribution modelling
+* Passive acoustic monitoring
+* Biologging
+
+---
+
+## Highlighted publications
+
+* Lathouwers, M., Beenaerts, N., Evens, R., Artois, T., Conway, G., Henderson, I., Shewring, M., Cross, T., Ulenaers, E., & Dendoncker, N. (2025). Impact of future climate change and land-use change on habitat suitability for a long-distance avian migrant under diverse socioeconomic-emission scenarios. Global Ecology and Conservation, 62, e03777. https://doi.org/10.1016/j.gecco.2025.e03777
+
+* Lathouwers, M., Dendoncker, N., Artois, T., Beenaerts, N., Conway, G., Henderson, I., Shewring, M., Cross, T., Ulenaers, E., & Evens, R. (2023). Multi-scale habitat selection throughout the annual cycle of a long-distance avian migrant. Ecological Indicators, 156, 111099. https://doi.org/10.1016/j.ecolind.2023.11109
+
+* Evens, R., Lathouwers, M., Pradervand, J. N., Jechow, A., Kyba, C. C. M., Shatwell, T., Jacot, A., Ulenaers, E., Kempenaers, B., & Eens, M. (2023). Skyglow relieves a crepuscular bird from visual constraints on being active. Science of the Total Environment, 900, 165760. https://doi.org/10.1016/j.scitotenv.2023.165760
+
+* Lathouwers, M., Artois, T., Dendoncker, N., Beenaerts, N., Conway, G., Henderson, I., Kowalczyk, C., Davaasuren, B., Bayrgur, S., Shewring, M., Cross, T., Ulenaers, E., Liechti, F., & Evens, R. (2022). Rush or relax: migration tactics of a nocturnal insectivore in response to ecological barriers. Scientific Reports, 12, 4964. https://doi.org/10.1038/s41598-022-09106-y
+
+* Dufour, P., et al. (2026). Multi-sensor tracking reveals the extent of nocturnal migration in landbirds. Current Biology, 36(14), 3697–3706.e3. https://doi.org/10.1016/j.cub.2026.06.030
+
+
+---
+
+## Collaborators, Partners & Funders
+
+::: {.grid .align-items-center .g-4 .my-3}
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/INBO.png){.collaborator-logo alt="INBO"}](https://www.vlaanderen.be/inbo)
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/CMK.png){.collaborator-logo alt="CMK"}](https://www.uhasselt.be/en/instituten-en/cmk-centre-for-environmental-sciences)
+:::
+
+::: {.g-col-6 .g-col-md-3 .text-center}
+[![](images/logos/UCLouvain.png){.collaborator-logo alt="UC Louvain"}](https://uclouvain.be/en/research-institutes/eli/eliv)
+:::
+
+:::
+
+* **INBO** (Research Institute for Nature and Forest): host institution
+* **Hasselt University**: partner institution - Centre for Environmental Sciences (Prof. Dr. Natalie Beenaerts)
+* **UCLouvain**: partner institution - Earth and Life Institute (Prof. Dr. Ruben Evens)
+
+

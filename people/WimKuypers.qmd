@@ -58,7 +58,7 @@ I am a PhD researcher in environmental sciences focusing on human-wildlife inter
 :::
 
 ::: {.g-col-6 .g-col-md-3 .text-center}
-[![](images/logos/UNamur.png){.collaborator-logo alt="CMK"}](https://www.unamur.be/fr)
+[![](images/logos/UNamur.png){.collaborator-logo alt="UNamur"}](https://www.unamur.be/fr)
 :::
 
 ::: {.g-col-6 .g-col-md-3 .text-center}

@@ -143,7 +143,24 @@ toc: false # No table of contents
 ### Dr. Anneleen Rutten {.h4 .mt-0}
 **Senior Researcher at INBO**
 
+[Research focus: human-wildlife interactions]{.small .text-muted}
+
 <a href="people/AnneleenRutten.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="people/images/Michiel.jpg" alt="Michiel Lathouwers" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Dr. Michiel Lathouwers {.h4 .mt-0}
+**Researcher at INBO**
+
+[Research focus: understanding avian ecology in human-modified landscapes ]{.small .text-muted}
+
+<a href="people/MichielLathouwers.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
 :::
 :::
 :::
@@ -155,8 +172,6 @@ toc: false # No table of contents
 
 ### Prof. Dr. Yanet Cruz Portorreal {.h4 .mt-0}
 **Professor - Universidad de Oriente**
-
-[Research focus: human-wildlife interactions]{.small .text-muted}
 
 <a href="people/YanetCruzPortorreal.qmd" class="btn btn-outline-primary btn-sm mt-3">Learn more</a>
 :::
@@ -235,6 +250,19 @@ toc: false # No table of contents
 **BSc Biology** 
 
 [Project: Habitat selection of wildlife in National Park Hoge Kempen using different methodologies]{.small .text-muted}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100 .text-center .shadow-sm .member-card}
+::: {.card-body}
+<img src="people/images/placeholder.jpg" alt="Stan Van Gils" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+
+### Stan Van Gils {.h4 .mt-0}
+**BSc Biology** 
+
+[Project: Evaluating the use of passive acoustic monitoring for assessing bird communities in fruit production orchards]{.small .text-muted}
 :::
 :::
 :::
