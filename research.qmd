@@ -197,7 +197,7 @@ The project aims to improve well-being and quality of life for vulnerable Indige
 ::: {.card-body .p-4}
 
 ::: {.d-flex .justify-content-between .align-items-start .mb-2}
-<h3 class="card-title text-dark m-0">2026-Present - Addressing bird damage in fruit cultivation through an innovative, data-driven approach</h3>
+<h3 class="card-title text-dark m-0">2026-Present - BirdWise: Addressing bird damage in fruit cultivation through an innovative, data-driven approach</h3>
 <span class="badge bg-dark fs-6">Research Project</span>
 :::
 
@@ -208,7 +208,7 @@ The project addresses bird damage in fruit cultivation with an innovative, data-
 
 ::: {.row .pt-2 .border-top}
 ::: {.col-md-6}
-**Funding:** Department of Environment - Flemish Government
+**Funding:** VLAIO (Flanders Innovation & Entrepreneurship) - Flemish Government
 :::
 :::
 
