@@ -14,7 +14,9 @@ toc: false # Hide sidebar on the right
     
 Ecological Field Station of Hasselt University
 
-<img src="images/logos/CMK.png" alt="Centre for Environmental Sciences (CMK) Logo" class="hero-logo">
+  <a href="https://www.uhasselt.be/en/instituten-en/cmk-centre-for-environmental-sciences" target="_blank" rel="noopener">
+      <img src="images/logos/CMK.png" alt="Centre for Environmental Sciences (CMK) Logo" class="hero-logo">
+    </a>
   </div>
 </div>
 
@@ -37,22 +39,22 @@ We place a strong emphasis on national and international collaboration, student 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}
-### 🔍 Long-Term Ecological Monitoring
+### Long-Term Ecological Monitoring
 Part of the European **eLTER network**, collecting data across Nationaal Park Hoge Kempen using camera traps and IoT sensors.
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### 🦇 Fundamental & Evolutionary Ecology
+### Fundamental & Evolutionary Ecology
 Conducting empirical research on ecological traits, stress tolerance, and community structures across diverse ecosystems. 
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### 🚶 Human-Nature Interactions
+### Human-Nature Interactions
 Investigating how human density, recreation, and habitat fragmentation impact wildlife dynamics and biodiversity in complex, multi-use landscapes.
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### 🐗 Mechanistic Modelling
+### Mechanistic Modelling
 Developing predictive models to evaluate management strategies and support evidence-based wildlife and wildfire management and conservation.
 :::
 
