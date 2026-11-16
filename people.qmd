@@ -46,7 +46,7 @@ toc: false # No table of contents
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100 .text-center .shadow-sm .member-card}
 ::: {.card-body}
-<img src="people/images/wim.jpg" alt="Wim Kuypers" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
+<img src="people/images/Wim.jpg" alt="Wim Kuypers" class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover; border: 3px solid var(--bs-primary);">
 
 ### Wim Kuypers {.h4 .mt-0}
 **PhD researcher**  
