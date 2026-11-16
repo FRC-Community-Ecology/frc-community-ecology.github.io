@@ -3,7 +3,7 @@ title: "Wim Kuypers"
 subtitle: "PhD researcher"
 page-layout: full
 toc: false
-image: images/Wim.JPG # Use same image as the card on people.qmd
+image: images/Wim.jpg # Use same image as the card on people.qmd
 about:
   template: trestles 
   image-width: 12em
